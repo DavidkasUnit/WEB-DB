@@ -1,0 +1,1956 @@
+INSERT INTO Clients (first_name, last_name,phone_number, Email) VALUES 
+('Bertrand', 'Schuppe', '(517) 719-1492', 'howell.erica@adams.com'),
+('Brice', 'Herzog', '+1-978-244-5699', 'zkessler@rice.com'),
+('Krystal', 'Osinski', '+1.856.959.4681', 'josh03@lubowitz.com'),
+('Janie', 'Gerhold', '+1.708.955.0389', 'april40@langosh.com'),
+('Marcel', 'Mann', '(564) 753-5647', 'baron59@hoppe.org'),
+('Jamey', 'Stokes', '+1.260.653.8133', 'cheyenne.heathcote@hotmail.com'),
+('Dusty', 'Heaney', '+1 (785) 561-6790', 'alice.boyle@breitenberg.com'),
+('Ferne', 'Ortiz', '+1 (820) 545-6736', 'efeeney@yahoo.com'),
+('Buck', 'Senger', '+1-213-530-7531', 'wilderman.jose@denesik.com'),
+('Newton', 'McDermott', '336.825.9811', 'xcollins@murazik.com'),
+('Hassie', 'Beatty', '+1.281.714.7009', 'meredith.dooley@hotmail.com'),
+('Brayan', 'Hirthe', '845-632-6911', 'walsh.judd@yahoo.com'),
+('Sheila', 'Kozey', '+19079317239', 'towne.princess@ortiz.info'),
+('Osvaldo', 'Baumbach', '442.491.9298', 'citlalli36@hotmail.com'),
+('Annamarie', 'Harber', '(475) 940-6662', 'winfield74@yahoo.com'),
+('Margarete', 'Ritchie', '+1-512-630-8883', 'nettie73@mckenzie.net'),
+('Dewitt', 'Hermann', '1-602-954-9006', 'bbarrows@yahoo.com'),
+('Murray', 'Pagac', '(225) 777-6455', 'wava.eichmann@weissnat.com'),
+('Gudrun', 'Hane', '(520) 726-4697', 'kamren.collier@yahoo.com'),
+('Lucas', 'Kuhlman', '1-203-575-9386', 'cummings.holly@gmail.com'),
+('Forest', 'Towne', '470.607.9643', 'qkling@hotmail.com'),
+('Demetris', 'Bauch', '620.627.6002', 'abernathy.kara@price.com'),
+('Chandler', 'Reichert', '+1.828.899.5646', 'lindgren.blanca@hotmail.com'),
+('Domenica', 'Mosciski', '+1 (786) 545-2761', 'uschuster@yahoo.com'),
+('Jensen', 'Anderson', '+1-580-949-5866', 'xblock@tremblay.com'),
+('Dylan', 'Carroll', '1-574-954-3513', 'emurray@yahoo.com'),
+('Felton', 'DuBuque', '+1.539.665.2233', 'timothy.hane@barrows.info'),
+('Jayden', 'Weimann', '1-984-978-6027', 'gibson.nickolas@gmail.com'),
+('Verona', 'Ferry', '856-617-9086', 'brendon04@nitzsche.com'),
+('Remington', 'Murray', '986-969-8976', 'cielo.schmitt@bode.com'),
+('Tessie', 'McLaughlin', '(870) 478-5652', 'steve21@yahoo.com'),
+('Briana', 'Reichert', '+1-515-235-3087', 'wilkinson.ibrahim@reynolds.info'),
+('Charlie', 'Buckridge', '+1 (339) 995-5111', 'emely.paucek@wolf.org'),
+('Shanny', 'Mante', '1-830-342-3677', 'rbecker@okon.net'),
+('Robin', 'Gislason', '+17373881301', 'twila76@gmail.com'),
+('Angel', 'McCullough', '657.693.0661', 'ikirlin@hotmail.com'),
+('Otilia', 'Fritsch', '757-791-9848', 'xstreich@yahoo.com'),
+('Dax', 'Grant', '689-398-8768', 'connie39@hotmail.com'),
+('Allen', 'Hammes', '740-217-3945', 'leon98@yahoo.com'),
+('Hilma', 'Grant', '(512) 610-7180', 'omurray@yahoo.com'),
+('Jaylin', 'Halvorson', '(240) 717-1079', 'ybernhard@bartell.biz'),
+('Renee', 'Spencer', '272-818-6100', 'fwintheiser@hotmail.com'),
+('Cletus', 'Moore', '(272) 584-7651', 'dayton82@hotmail.com'),
+('Adrain', 'Mante', '+12485540397', 'ryder52@deckow.org'),
+('Reese', 'Russel', '+1 (640) 400-9986', 'nstoltenberg@yahoo.com'),
+('Jessica', 'Lang', '+1.308.563.0671', 'daryl97@gleason.com'),
+('Brook', 'Botsford', '351-497-9779', 'grover.willms@yahoo.com'),
+('Lucile', 'Eichmann', '+1.228.795.1628', 'dhudson@cruickshank.com'),
+('Lester', 'Powlowski', '+1 (380) 644-6186', 'flo.altenwerth@pouros.net'),
+('Jayden', 'Kirlin', '1-803-250-9472', 'sporer.marlon@hotmail.com'),
+('Marie', 'Gusikowski', '+1.929.774.1214', 'frederic31@spencer.org'),
+('Daniella', 'Swift', '629.658.1703', 'koelpin.ken@schowalter.biz'),
+('Eusebio', 'Goodwin', '(865) 926-5518', 'metz.winnifred@hotmail.com'),
+('Cristopher', 'O\'Conner', '(680) 660-0753', 'noberbrunner@ernser.net'),
+('Jabari', 'Price', '854.818.8941', 'elmer46@hotmail.com'),
+('Maxine', 'Kuvalis', '218.283.2313', 'cstrosin@hotmail.com'),
+('Hailie', 'Koch', '+16205170850', 'hettinger.elliott@smith.com'),
+('Lincoln', 'Doyle', '351-869-3043', 'ashleigh.jenkins@erdman.com'),
+('Humberto', 'Hane', '+1-251-334-2438', 'candida.hackett@kihn.info'),
+('Erica', 'Stehr', '+17724221546', 'gutkowski.kolby@schultz.net'),
+('Geo', 'Wiegand', '+1 (380) 941-7771', 'calista78@jerde.com'),
+('Yasmine', 'Baumbach', '+1-315-712-8574', 'edonnelly@crist.com'),
+('Stephon', 'Stark', '+1-828-344-5366', 'gerhold.ruthie@strosin.com'),
+('Tracy', 'Larson', '(726) 637-3628', 'heidenreich.deon@cormier.biz'),
+('Shanelle', 'Wisoky', '+1.406.294.2895', 'ktrantow@gmail.com'),
+('Mercedes', 'Carroll', '970-313-4541', 'rharvey@hotmail.com'),
+('Jessica', 'O\'Conner', '+1.732.780.4880', 'boehm.emerald@hotmail.com'),
+('Estell', 'Grady', '+1-812-949-5829', 'steuber.kenyatta@kozey.net'),
+('Daisy', 'Collins', '540-361-0287', 'johnathan92@eichmann.net'),
+('Madie', 'Ullrich', '361-391-4096', 'agustin.mraz@auer.com'),
+('Cortez', 'Wiza', '+14796242491', 'osborne20@beer.com'),
+('Chesley', 'Robel', '475.298.3667', 'delores.kassulke@becker.net'),
+('Davin', 'Howell', '239-797-3056', 'leuschke.wiley@hotmail.com'),
+('Rhett', 'Lebsack', '+17737357921', 'fhansen@hotmail.com'),
+('Shana', 'Wolff', '610-436-0170', 'piper.roob@hotmail.com'),
+('Sherman', 'Muller', '805.435.2795', 'vjaskolski@yahoo.com'),
+('Holden', 'Pouros', '820.278.5094', 'princess.lueilwitz@gmail.com'),
+('Elaina', 'Gusikowski', '212-313-5069', 'ykautzer@boyle.info'),
+('Devonte', 'Fahey', '323-724-8301', 'bbins@bins.com'),
+('Lenna', 'Hansen', '914-442-2852', 'hkeeling@haley.com'),
+('Casimer', 'Zemlak', '+1-864-790-6628', 'ursula.rau@gmail.com'),
+('Megane', 'Gaylord', '760-429-1913', 'franecki.arturo@zboncak.info'),
+('Abbey', 'Wolf', '+1 (781) 669-4497', 'hbauch@yahoo.com'),
+('Brandt', 'Howell', '830-379-5567', 'monserrate.kunde@yahoo.com'),
+('Carole', 'Okuneva', '1-352-904-3820', 'jaime31@kulas.net'),
+('Krystina', 'Wiza', '+1-929-788-1296', 'frederic.hane@yahoo.com'),
+('Steve', 'Homenick', '747-710-0597', 'laury.stamm@huels.com'),
+('Destinee', 'Bergstrom', '+1.681.210.7650', 'haven79@gmail.com'),
+('Keshawn', 'Nicolas', '1-225-319-5539', 'dave.boyer@hotmail.com'),
+('Junius', 'Legros', '+14024456591', 'janessa.ziemann@yahoo.com'),
+('Cristal', 'Howell', '1-714-962-9304', 'zdamore@yahoo.com'),
+('Brooke', 'Rowe', '+1-947-669-8946', 'vernie.funk@hotmail.com'),
+('Chelsie', 'Lakin', '(424) 558-0894', 'koss.delphine@greenfelder.com'),
+('Adriana', 'Stiedemann', '+1-920-201-7241', 'margarett26@kovacek.com'),
+('Kaitlin', 'Crooks', '+1-248-860-3227', 'schimmel.madisen@hotmail.com'),
+('Joanny', 'Ferry', '(551) 915-1917', 'khintz@mclaughlin.net'),
+('Donny', 'Mayer', '432-940-2391', 'leif.bosco@hotmail.com'),
+('Brionna', 'Veum', '+1-947-746-7636', 'gleichner.wendy@gmail.com'),
+('Magdalena', 'Strosin', '(816) 740-2798', 'sharon97@torphy.com'),
+('Columbus', 'Ernser', '1-303-713-3339', 'johnson17@yahoo.com')
+;
+
+INSERT INTO Branches (name, address, phone) VALUES 
+('Braun and Sons', '74730 Beahan Knolls Suite 337
+Colleenhaven, ND 59261-2534', '+1.773.749.4019'),
+('Botsford-Bashirian', '382 Russel Locks
+North Kian, SD 96944-6673', '+1-423-425-4409'),
+('Stiedemann, O\'Conner and Klein', '9073 Sawayn Streets Suite 517
+New Alexiemouth, IL 69679-8289', '(678) 521-6160'),
+('Gorczany, Weimann and Grant', '914 Hassie Views
+Elenorshire, WA 68712-7991', '352.240.7070'),
+('Sipes, Runte and Howell', '1321 Morissette Drive
+Flatleybury, OR 80022', '+1 (870) 864-2647'),
+('O\'Hara Inc', '8376 Armstrong Village Apt. 859
+Feestchester, WA 11908-5426', '331-320-3075'),
+('Littel-Balistreri', '2825 Swaniawski Avenue
+Port Maritza, NV 37275', '+1-743-565-9192'),
+('Hilpert-Casper', '13745 Schmeler Shoals Apt. 818
+South Kurtbury, VT 23463-0827', '+1 (480) 448-9239'),
+('Ward LLC', '85801 Lubowitz Brook Suite 757
+Breitenbergchester, ME 35561-4441', '(620) 931-3513'),
+('Bins LLC', '792 Keshawn Land
+Jakaylaborough, TN 16986', '(704) 996-9168')
+;
+
+
+INSERT INTO Agents (first_name, last_name, phone_number, email, branch_id) VALUES 
+('Minerva', 'Heathcote', '567.518.4328', 'jacklyn.durgan@hotmail.com', 1),
+('Lew', 'Wyman', '234-293-2626', 'qlynch@hotmail.com', 8),
+('Federico', 'Graham', '+1-410-685-9371', 'jocelyn35@green.com', 9),
+('Cole', 'Johnston', '1-947-496-9703', 'nickolas22@yahoo.com', 6),
+('Willie', 'Lang', '925.967.4698', 'mose08@yahoo.com', 6),
+('Evalyn', 'Lemke', '586.357.5152', 'auer.morton@conroy.com', 5),
+('Shirley', 'Hessel', '+1.240.835.0080', 'scotty.damore@gmail.com', 3),
+('Myrtis', 'Glover', '203.395.2144', 'nspinka@yahoo.com', 2),
+('Lindsey', 'Braun', '+1-463-501-5318', 'rebeka.carter@klein.com', 5),
+('Jose', 'Treutel', '(361) 458-4156', 'mjohns@rath.org', 9),
+('Maye', 'Stracke', '530-459-5638', 'howell.gwendolyn@tremblay.com', 6),
+('Floyd', 'Wuckert', '+1-475-325-7838', 'abashirian@yahoo.com', 2),
+('Flo', 'Bradtke', '541-521-7936', 'green.jayne@waters.com', 5),
+('Kellen', 'Rempel', '+1 (618) 905-9231', 'mervin00@hotmail.com', 7),
+('Ike', 'McKenzie', '+15126228752', 'jaskolski.breanna@hotmail.com', 3),
+('Natalia', 'Considine', '(971) 363-4637', 'jamel.sporer@wilkinson.org', 4),
+('Robyn', 'Labadie', '(747) 620-1976', 'lowe.alexander@hotmail.com', 6),
+('Olga', 'Stehr', '650.663.3850', 'mpowlowski@kovacek.biz', 10),
+('Alexander', 'Altenwerth', '856-718-9498', 'uwill@yahoo.com', 5),
+('Braulio', 'Schuppe', '1-937-523-8684', 'heather.ebert@gorczany.com', 4),
+('Mariano', 'Kuvalis', '650-748-7363', 'jovani.schowalter@gmail.com', 2),
+('Shyann', 'Ritchie', '415.991.3715', 'koepp.ottilie@yahoo.com', 3),
+('Pauline', 'Mann', '+1.985.964.5202', 'vergie.vandervort@gmail.com', 7),
+('Tabitha', 'Connelly', '646-817-0362', 'zaria.boyer@waters.com', 5),
+('Shea', 'Bins', '+1-231-605-5941', 'wuckert.jaleel@hotmail.com', 7),
+('Loma', 'O\'Kon', '(559) 540-7292', 'melody85@dach.com', 6),
+('Allan', 'Davis', '+1-319-820-6005', 'lila.collins@gmail.com', 6),
+('Brandyn', 'Bergstrom', '+1.640.607.8993', 'carissa23@gmail.com', 5),
+('Emile', 'Weber', '623-200-8975', 'clifton99@watsica.biz', 10),
+('Lela', 'Fisher', '+1 (843) 901-0371', 'dan.koch@yahoo.com', 4),
+('Katelyn', 'Crona', '+14806829210', 'hkessler@yahoo.com', 5),
+('Darian', 'Hayes', '+1.330.350.1567', 'mpacocha@yahoo.com', 10),
+('Jacquelyn', 'Johns', '+1.302.859.1458', 'hickle.amya@mertz.com', 3),
+('Grant', 'DuBuque', '1-934-266-2102', 'torphy.ona@hotmail.com', 7),
+('Dalton', 'Franecki', '820-994-3500', 'steuber.augusta@kuphal.com', 4),
+('Krista', 'Ankunding', '+1 (234) 654-8240', 'lgleichner@green.info', 2),
+('Cleve', 'Bradtke', '1-520-949-8799', 'beahan.leopoldo@denesik.biz', 8),
+('Buford', 'Kreiger', '1-283-476-5941', 'murray.betty@jacobi.com', 5),
+('Novella', 'Rutherford', '346-757-8262', 'torphy.fernando@bayer.com', 5),
+('Nia', 'Pagac', '+1-651-459-3036', 'mariela.morissette@gmail.com', 6),
+('Nathanial', 'Dickens', '352.997.6650', 'agnes.abshire@corkery.com', 2),
+('Kailey', 'Bauch', '(641) 276-0490', 'dallin93@yahoo.com', 9),
+('Barbara', 'Mueller', '(570) 530-0723', 'mateo.armstrong@jones.net', 5),
+('Macey', 'Powlowski', '+19563908043', 'htrantow@yahoo.com', 3),
+('Pamela', 'Tremblay', '574.563.5744', 'luettgen.helga@cronin.biz', 5),
+('Ed', 'Simonis', '+1.848.600.0248', 'xwhite@hotmail.com', 2),
+('Haskell', 'Walsh', '1-959-620-4786', 'cole.freddy@gmail.com', 7),
+('Valentin', 'Keeling', '1-785-470-8827', 'ankunding.catherine@romaguera.com', 1),
+('Oda', 'Aufderhar', '+17348866788', 'levi02@hoeger.com', 6),
+('Odessa', 'Ullrich', '660-815-8875', 'pacocha.danika@ernser.info', 3)
+;
+
+INSERT INTO Properties (address, type, price, area, owner_id, agent_id) VALUES 
+('6324 Volkman Orchard
+Hiramland, WY 68620-3409', 'Villa', 1402629.45, 472, 19, 5),
+('77262 Fabiola Trafficway
+Adrainmouth, CT 68416', 'Cottage', 3157663.92, 405, 86, 27),
+('141 Mallory Shoals Apt. 471
+Gretchenland, MI 26577', 'Cottage', 1907417.87, 469, 13, 30),
+('576 Stanley Rapid
+Simonischester, OH 62417-9750', 'House', 2739248.26, 74, 54, 48),
+('25736 Berneice Well
+Joneschester, MD 51614-1494', 'Condo', 3077180.64, 473, 26, 27),
+('31400 Quitzon Mountains Suite 538
+West Jodyhaven, GA 25216-3904', 'Cottage', 484453.22, 219, 65, 43),
+('3487 Adams Locks Apt. 848
+Rexside, TN 00901-2684', 'House', 1689250, 116, 82, 3),
+('887 O\'Reilly Drive Apt. 897
+Douglasbury, AR 37786', 'House', 2087899.94, 300, 84, 31),
+('14594 Jaren Orchard Apt. 293
+West Rhiannaburgh, DC 16152', 'House', 595372.79, 267, 59, 37),
+('7094 Sabryna Greens Apt. 305
+Lake Ezekielburgh, NH 63612', 'Villa', 1780037.15, 128, 84, 5),
+('32883 Hermiston Burgs Suite 586
+East Guadalupe, MO 71538', 'Condo', 4298918.06, 120, 82, 29),
+('2170 Deckow Radial Suite 317
+Lemkeburgh, CO 48642', 'Apartment', 1505782.99, 90, 52, 6),
+('346 Cathrine Fords Suite 672
+West Crystal, WI 99889', 'Villa', 1767823.47, 244, 20, 22),
+('541 Jacobi Locks Apt. 916
+Port Cierrafort, DE 21681', 'Villa', 3636825.01, 140, 29, 46),
+('93841 Maggio Springs
+Port Reynold, MS 08087-6756', 'Apartment', 1059876.06, 100, 5, 39),
+('3012 Green Wall
+New Barry, IA 21602', 'Apartment', 3392630.61, 498, 2, 5),
+('27556 Bergnaum Fords Apt. 496
+South Carmelport, NE 59241-5104', 'House', 1503190.24, 139, 95, 25),
+('873 Wolf Springs Apt. 181
+West Kelvinfort, ME 21296-7011', 'House', 2385410.84, 309, 6, 29),
+('5780 Jakubowski Turnpike
+South Katlynntown, KY 77905-7979', 'Villa', 573708.98, 413, 17, 44),
+('718 Tavares Vista
+North Samanthaton, ID 00399-4883', 'House', 4610957.55, 153, 71, 18),
+('7737 Dibbert Fort Apt. 986
+New Charity, IL 24698-8907', 'Cottage', 4246659.33, 172, 80, 38),
+('9879 Guido Stravenue
+Jaymeburgh, WI 22655-7980', 'Condo', 4705655.68, 129, 22, 31),
+('5533 Jaskolski Freeway
+South Maurine, NE 89364-2529', 'House', 2141836.98, 374, 62, 31),
+('45699 Humberto Estate
+North Annetteburgh, SC 56920-4662', 'Condo', 2196832.42, 476, 39, 9),
+('707 Maynard River
+North Gennaro, RI 27012-0268', 'Condo', 1105000.91, 422, 90, 45),
+('5533 Michele Ridge Suite 657
+Cristophershire, TX 62138', 'Cottage', 4171358.64, 268, 13, 26),
+('151 Gerlach Causeway
+West Cara, CA 42264-2625', 'Apartment', 705464.01, 227, 71, 23),
+('7467 Corkery Key
+Ernserland, UT 09757', 'Cottage', 2308443.93, 294, 11, 21),
+('632 Jeffrey Street
+West Stone, ND 96043-9512', 'Apartment', 3802971.51, 450, 32, 33),
+('58001 Langosh Course Apt. 948
+Guadalupefort, NH 84710', 'Apartment', 4292790.85, 250, 93, 28),
+('34141 Gleason Extensions
+West Omariside, MS 74779', 'Villa', 676043.71, 363, 6, 45),
+('9980 Hill Fields Apt. 921
+Ciceromouth, MA 41308-8991', 'Condo', 4950185.72, 296, 62, 47),
+('449 Enola Groves
+New Ivyborough, WY 44291-0141', 'Apartment', 3216506.88, 143, 20, 18),
+('733 Lambert Vista
+Harveytown, DE 13892-1566', 'Condo', 972102.08, 232, 43, 20),
+('641 Kilback Hills
+North Simeon, MS 58926', 'Condo', 4536688.97, 194, 47, 14),
+('524 Feeney Neck
+Schowalterburgh, WY 98893-4937', 'House', 2276108.43, 92, 7, 16),
+('2800 Berge Avenue
+West Jamalton, VT 99997-7068', 'Villa', 833487.58, 426, 37, 14),
+('15828 Haley Glen
+New Lulu, WY 14675', 'Cottage', 3454376.48, 67, 45, 16),
+('247 Feil Groves
+South Zula, MS 95928', 'Apartment', 1418972.95, 52, 12, 10),
+('5420 Toy Estate
+New Tania, DC 63617', 'Condo', 2604375.7, 434, 38, 20),
+('676 Skiles Plain
+East Kaleyville, UT 87043', 'Cottage', 4793104.2, 394, 79, 27),
+('5347 Raynor Village Suite 342
+Cesarburgh, FL 85027', 'House', 3651631.48, 269, 85, 14),
+('78411 Pfeffer Shoals Apt. 547
+Lake Steve, WV 87915', 'Cottage', 2312982.68, 500, 81, 12),
+('66148 Beryl Fort
+Kassulkeside, VT 99641', 'Cottage', 2758063.51, 211, 82, 35),
+('38546 Julia Ports Suite 819
+South Jaquanmouth, HI 50344-9596', 'Cottage', 4562517.62, 440, 8, 23),
+('8783 Kihn Road Suite 971
+Destineyland, AK 23966-8077', 'Cottage', 96764.72, 126, 35, 17),
+('373 Lynch Crescent
+Celiamouth, LA 85603-6728', 'House', 3254250.55, 163, 27, 37),
+('8098 Rippin Mountains
+Lake Federico, IN 61688-6715', 'Condo', 1687746.83, 236, 99, 32),
+('624 Tanya Streets Apt. 512
+North Gerardoberg, SD 05225', 'Villa', 2878514.29, 387, 79, 42),
+('409 Stewart Branch
+Meghanborough, NE 10687-9678', 'House', 2546193.91, 230, 86, 43),
+('6900 Justyn Plaza Apt. 287
+Murrayburgh, KY 84590-1704', 'Apartment', 348528.66, 164, 53, 6),
+('6396 Nathaniel Courts
+New Eladiofurt, MD 97169-6087', 'Condo', 4309487.97, 486, 33, 15),
+('16436 Nikolaus Island Suite 925
+West Kendra, DE 01024-1171', 'House', 3295464.18, 310, 74, 6),
+('979 Mortimer Junctions
+Hirthestad, NC 91609', 'Villa', 2473940.14, 191, 67, 45),
+('5115 Toni Land Suite 985
+Manuelatown, ID 53858', 'Villa', 584586.89, 460, 69, 9),
+('6859 Collins Extensions Apt. 627
+Gerholdchester, PA 33186-7239', 'Apartment', 823350.75, 432, 36, 18),
+('122 Tyrell Rest
+Brakusfurt, NH 27309', 'House', 2959320.84, 469, 5, 42),
+('36371 Stokes Wells
+East Lenny, SD 97125-8584', 'House', 994351.58, 355, 28, 50),
+('522 Kuhlman Village
+Schoenfurt, DC 38330-7833', 'Cottage', 2855829.97, 419, 28, 8),
+('9122 Wuckert Turnpike Suite 991
+Lake Mariannemouth, MO 18858-5060', 'House', 3512591.16, 132, 56, 3),
+('79042 Skylar Trace
+Calliechester, NJ 34193-4069', 'Apartment', 2004174.46, 55, 11, 3),
+('1427 Albin Ports
+East Arnoland, ID 75577', 'Apartment', 4461650.02, 445, 17, 40),
+('937 Littel Court
+Sashatown, MO 36665', 'Condo', 3020343.24, 157, 38, 25),
+('73330 Blaze Center
+Lake Gilbert, NV 29529', 'Apartment', 2641622.42, 458, 12, 31),
+('69376 Kelsi Path
+Corymouth, FL 54824-2796', 'Apartment', 667015.03, 477, 23, 10),
+('5465 Vita Garden
+East Marlen, MN 66087-8417', 'Cottage', 2115351.49, 325, 68, 26),
+('39469 Alba Ports Apt. 468
+New Diegofurt, FL 06802-5556', 'Condo', 3957603.84, 480, 81, 1),
+('304 Conn Flats
+West Rodrickview, ID 60675-6176', 'Apartment', 2086720.43, 129, 35, 3),
+('6831 Melisa Dale Suite 642
+West Keenan, CA 34506', 'House', 1310829.4, 453, 5, 4),
+('707 Klein Islands
+Mathiaston, LA 96431', 'Condo', 1308785.04, 313, 27, 37),
+('11655 Sigmund Cape Suite 380
+Charlottemouth, MN 91886-5269', 'House', 3064186.64, 282, 94, 9),
+('340 Shanahan Land
+Lake Noah, CO 53535', 'Cottage', 2479928.88, 398, 95, 4),
+('47480 Gerlach Row
+Lake Maddisonfurt, RI 40012-6380', 'Condo', 3576847.41, 277, 83, 41),
+('7739 Jannie Plaza Apt. 864
+New Dandretown, IL 75932', 'Villa', 2694166.01, 104, 91, 26),
+('459 Brandi Streets
+Sonnychester, TX 84284', 'House', 4151615.91, 70, 92, 10),
+('5683 Asa Vista
+Port Estel, PA 95827', 'House', 4344409.37, 454, 2, 29),
+('8909 Gladyce Viaduct Suite 156
+Emilioberg, AK 71154-2958', 'Apartment', 439479.08, 358, 14, 1),
+('18025 Kemmer Light Suite 701
+North Darby, OR 35664-0352', 'Apartment', 1659444.25, 89, 5, 38),
+('987 Connie Walk
+Ruthieside, MO 71455-4658', 'Condo', 2347173.26, 338, 18, 11),
+('7518 Kilback Estate
+Lake Cullen, MD 17935', 'Villa', 1234581.95, 117, 51, 36),
+('317 Mills Way Apt. 132
+Jerdemouth, MS 08246', 'Villa', 3095026.54, 101, 14, 10),
+('185 Deonte Roads Suite 290
+Auerfurt, OR 97726-5962', 'Condo', 1170026.09, 438, 48, 21),
+('5625 Lucious Tunnel
+Port Jody, WY 70570-4331', 'Condo', 930831.46, 401, 22, 44),
+('27562 Goldner Pike
+West Colinville, NJ 31957-8074', 'Villa', 1366090.94, 439, 87, 31),
+('605 Ofelia Junctions Apt. 585
+Pfannerstillfort, KS 38006', 'Apartment', 106861.28, 319, 98, 32),
+('259 Mireille Way
+Lake Crawford, MA 41576-6223', 'Apartment', 4476492.26, 315, 11, 42),
+('34222 Lyda Street Apt. 766
+East Rebekastad, CO 27287-2248', 'Cottage', 299661.89, 237, 94, 14),
+('271 Kuhn Via
+Floside, RI 33554-5864', 'Condo', 3201823.71, 101, 53, 27),
+('40590 Gibson Hills
+North Jonatan, KY 36104-4964', 'Condo', 151538.28, 347, 75, 21),
+('556 Donnelly Flats Apt. 188
+Clementinemouth, MI 60723', 'Apartment', 3234138.91, 266, 58, 12),
+('77526 Gutmann Walk Apt. 022
+Larkinbury, NC 23532', 'Villa', 2676335.41, 232, 90, 3),
+('6503 Cassin Orchard
+North Pasquale, CA 51180-8199', 'Villa', 4788749.75, 139, 59, 35),
+('4735 Boehm Street Apt. 906
+East Antonettefurt, UT 51966', 'Cottage', 3763461.2, 87, 12, 50),
+('215 Isaiah Center
+Johnsville, VT 69576-6825', 'Apartment', 4425492.37, 219, 78, 30),
+('52420 Coy Brooks Suite 933
+West Salmabury, MI 76719', 'Apartment', 4365161.57, 233, 45, 2),
+('4762 Ardith Place Suite 576
+West Gildabury, CO 92924', 'Condo', 2252856.58, 472, 36, 14),
+('893 Hoppe Roads Apt. 176
+Emeliemouth, IL 48177', 'Cottage', 3940928.68, 448, 51, 17),
+('7079 Blanda Cliffs
+Taylorhaven, ME 71239-6503', 'House', 1216461.37, 311, 52, 26),
+('77441 Olson Key Apt. 515
+East Ocieshire, MD 67465-0917', 'Villa', 2521207.77, 415, 31, 39),
+('8431 Cummings Roads Apt. 284
+Wehnerside, ND 41905-8441', 'House', 1468931.56, 157, 79, 50),
+('13250 Gerhold View
+New Olenton, CA 86873', 'House', 1058460.67, 497, 25, 35),
+('3722 Amir Lakes
+Lake Damarisview, IN 38855-2494', 'Villa', 2902200.74, 263, 79, 27),
+('676 Dach Islands Apt. 868
+Elenorborough, NJ 06487-5221', 'Villa', 2701535.99, 133, 82, 47),
+('15539 Harvey Roads Apt. 900
+Lake Trever, WI 78681-7393', 'Villa', 4146753.06, 233, 43, 4),
+('83439 Dicki Ferry Apt. 920
+Greenholtside, PA 95128-1353', 'Apartment', 2605683.69, 149, 20, 38),
+('965 Windler Field Suite 817
+Schadenville, GA 32918-2413', 'Cottage', 920613.4, 124, 3, 47),
+('5386 Justen Manors Apt. 070
+North Barbarashire, MT 90332', 'Villa', 1202089.33, 384, 62, 34),
+('7951 Hazle Centers Apt. 457
+Lake Tina, WY 97128-4831', 'House', 911585.24, 465, 6, 19),
+('4631 Barrows Crossroad
+Altenwerthfurt, MO 58605', 'House', 1770320.37, 443, 100, 31),
+('731 Moen Street
+Loweside, NE 43280', 'Apartment', 1927994.81, 162, 55, 38),
+('41191 Vandervort Courts Apt. 125
+Lake Jakobstad, VA 96292-6327', 'Condo', 1861528.41, 62, 7, 36),
+('6040 Dina Heights
+Davismouth, UT 60556-7233', 'Apartment', 2395645.72, 382, 88, 39),
+('19525 Keeling Viaduct
+Loycechester, OR 95846', 'Condo', 3652313.91, 366, 35, 21),
+('514 Carrie Hill Apt. 922
+Karianeton, OK 33912-1453', 'Apartment', 4644381.86, 55, 79, 10),
+('816 Streich Mountain Apt. 754
+Mayerfurt, TX 56531', 'Cottage', 2233393.7, 303, 97, 25),
+('9525 Kailee Plains
+East Duanehaven, IL 86554-2945', 'Villa', 170616.53, 388, 71, 8),
+('868 Senger Harbor
+Parisianside, MT 27466', 'Villa', 4076713.11, 351, 27, 13),
+('5002 Green Drive
+Watsicafort, LA 29116-0770', 'Villa', 312931.33, 295, 33, 35),
+('7057 Nicolas Meadow
+West Aldabury, LA 99638', 'Villa', 812501.25, 174, 72, 37),
+('59346 Mariam Street
+Gleasonport, HI 60532-1544', 'Cottage', 1271000, 374, 15, 12),
+('72498 Brandt Estates
+Santinoland, OR 22586-7581', 'Cottage', 628194.46, 114, 25, 28),
+('16955 Tyra Garden Apt. 240
+Greenshire, WI 61871', 'Apartment', 355315.55, 431, 39, 27),
+('5349 Terry Mission Suite 164
+Port Whitney, CO 32421-0241', 'Condo', 910781.97, 427, 7, 30),
+('79980 Juston Rapids Apt. 797
+Louietown, KS 34257', 'House', 975431.47, 448, 20, 21),
+('1073 Bruen Light
+Alannaburgh, HI 63648-3877', 'Condo', 3780623.69, 363, 56, 18),
+('445 Ellis Villages Apt. 053
+Hollieview, FL 23061-2481', 'Apartment', 2075436.37, 192, 58, 42),
+('1540 Hane Estate Apt. 395
+Lake Hoyt, WI 77302-1173', 'Villa', 2068489.51, 217, 25, 49),
+('34905 Williamson Road
+South Bobbyview, KS 19367-9951', 'Cottage', 355421.62, 444, 24, 18),
+('604 Hermiston Pike Suite 207
+Port Virgil, OK 98981', 'Apartment', 1651025.48, 271, 92, 12),
+('4433 Johnathon Points
+Morarfort, DC 41157', 'Apartment', 3233618.33, 97, 98, 28),
+('36908 Sonia Burgs Suite 597
+Rickiehaven, MA 37624-9930', 'Cottage', 779068.17, 109, 32, 4),
+('90921 Laron Ridge
+Eichmannland, VT 37738', 'Villa', 3523170.99, 368, 47, 7),
+('762 Bergstrom Oval Suite 424
+New Darien, NY 60568-3062', 'Condo', 3445721.43, 76, 14, 29),
+('354 Matt View
+South Garfieldborough, AR 72931', 'Condo', 2501140.14, 488, 54, 19),
+('979 Ima Manor
+Abbottborough, MN 63241-3510', 'Apartment', 3914223.21, 83, 28, 28),
+('5085 Feest Summit Suite 760
+Lake Brock, GA 60597-9733', 'Condo', 742735.87, 218, 83, 50),
+('6608 America Prairie
+East Mariahchester, MA 47680-8981', 'House', 909525.08, 181, 12, 2),
+('7803 Smitham Hollow
+Port Rodolfo, IA 83201-2706', 'Villa', 1838485.97, 454, 55, 17),
+('91109 Edythe Dam
+Kodyville, NC 92397-1847', 'Condo', 1604669.16, 379, 59, 34),
+('7200 Kayli Lane
+Javontemouth, OH 69177-5469', 'Condo', 1126305.42, 246, 22, 20),
+('38506 Tristin Crossroad Suite 997
+Lisaside, NH 28717', 'Apartment', 1610558.05, 122, 81, 25),
+('4174 Schimmel Path Apt. 659
+West Lenore, GA 26325-6880', 'Villa', 2488948.96, 97, 25, 50),
+('1011 Armstrong Mill Suite 176
+Lake Flossie, GA 51201', 'Condo', 4837855.92, 147, 18, 7),
+('97328 Lafayette Mountain
+Imogeneland, AZ 40026-2924', 'Cottage', 1494419.18, 210, 53, 24),
+('356 Mueller Dale Apt. 428
+Dulcetown, ND 04771', 'Condo', 1043064.26, 296, 93, 30),
+('444 Will Crossing Apt. 799
+Cynthiaburgh, IN 32414-1531', 'House', 4918773.21, 209, 6, 38),
+('72647 Vernie Curve Suite 014
+Lake Margarettside, NE 25435', 'Villa', 4446031.06, 100, 8, 17),
+('99077 Bettye Bypass Apt. 343
+Wolffort, MN 68387-4830', 'Condo', 1036609.96, 218, 51, 33),
+('19077 Pfeffer Lodge
+Schroederside, LA 04484', 'Condo', 2801557.01, 459, 64, 4),
+('46446 Krajcik Centers
+Lake Jana, MI 32684-3850', 'House', 790156.61, 320, 12, 38),
+('9400 Bashirian Divide Apt. 746
+Welchtown, IL 36872-3395', 'Cottage', 3472927.63, 276, 51, 38),
+('142 McLaughlin Spur
+South Ceasarfort, HI 08944-8724', 'Apartment', 1867366.15, 471, 100, 25),
+('470 Bartell Plaza
+Port Zanemouth, OR 51117', 'Condo', 3627366.23, 207, 94, 1),
+('487 Tito Underpass Apt. 618
+East Wilbert, KY 80624-2383', 'House', 89997.58, 355, 66, 17),
+('61044 Osinski Greens Suite 535
+Schimmeltown, MN 41712-7747', 'Villa', 2586791.58, 435, 24, 44),
+('22557 Kacie Plains Apt. 222
+North Lou, DC 41000', 'House', 4036431.77, 349, 1, 44),
+('931 Marty Stravenue
+Ambroseside, FL 94934-3371', 'Cottage', 3481257.6, 371, 29, 25),
+('44576 Aliza Drive Suite 295
+Cummingsburgh, VT 04343', 'Villa', 722689.91, 396, 20, 8),
+('31792 Blanda Cape
+North Loriburgh, UT 63976', 'House', 4434257.26, 378, 37, 23),
+('413 Will Point Suite 271
+Gastonburgh, RI 71692-5944', 'House', 2808869.31, 273, 90, 11),
+('47726 Anderson Mountains Suite 370
+Coltshire, MA 23740-6412', 'Cottage', 3550596.22, 132, 46, 7),
+('52769 Considine Common Suite 397
+West Newton, MA 89641', 'Cottage', 432908.55, 408, 89, 25),
+('817 Kirlin Estates Apt. 313
+Bogisichburgh, MI 33714-7042', 'House', 2338659.02, 68, 34, 37),
+('36500 Waelchi Common
+Zeldahaven, AK 86946', 'Condo', 2390881.15, 145, 79, 9),
+('239 Kub Extension
+New Lila, AR 81802', 'Apartment', 1914504.28, 50, 42, 25),
+('996 Kelley Path
+North Sheamouth, OH 79098', 'Cottage', 852188.46, 256, 21, 15),
+('913 O\'Hara Groves Apt. 806
+Port Gerda, NC 99799-0882', 'Villa', 3123829.85, 390, 67, 28),
+('6620 Aufderhar Views
+New Samantatown, CT 91550-8106', 'Apartment', 3180033.1, 61, 82, 12),
+('4724 Shyanne Pike
+South Ransom, HI 32232-8540', 'Cottage', 1740060.78, 344, 6, 14),
+('4228 Edmond Terrace Apt. 154
+Verlaton, IL 52987-4016', 'Villa', 1493003.41, 357, 21, 15),
+('49634 Crona Unions Apt. 689
+South Emelia, MA 78830-7914', 'Villa', 2601181.75, 430, 41, 17),
+('29041 Cameron Rue Apt. 012
+Antoniaborough, NH 56549', 'Cottage', 268573.95, 80, 78, 16),
+('54181 Ratke Station Apt. 765
+Schneiderfurt, ME 63462', 'Apartment', 290891.93, 329, 15, 9),
+('24705 Molly Inlet Suite 929
+Port Nichole, OH 48356-6561', 'Villa', 2225656.62, 151, 36, 42),
+('262 Paucek Mountains
+Hackettshire, MT 62092', 'Villa', 1919064.41, 264, 61, 41),
+('79647 Reanna Hollow
+Cadenberg, OH 13025', 'Condo', 3457590.53, 377, 36, 42),
+('3118 Flatley Center Suite 264
+Antoniettaburgh, OR 14337', 'Condo', 3233242.91, 270, 97, 25),
+('1722 Michelle Court
+Sageton, OH 77646-2712', 'Condo', 266136.91, 101, 6, 15),
+('6131 Caesar Lodge
+Liamstad, FL 42040', 'Condo', 1391912.06, 393, 14, 45),
+('96489 Tristin Ridges
+Geraldton, NY 99983-3008', 'Condo', 3374994.92, 104, 12, 2),
+('4566 Stephan Drives Suite 737
+Port Josieberg, SD 69106', 'House', 323575.65, 121, 98, 49),
+('49801 Imelda Squares Suite 047
+West Angelita, GA 41973-6269', 'House', 466250.36, 51, 71, 42),
+('2336 Dooley Fort Apt. 285
+Kayleighhaven, TX 40208-5531', 'Cottage', 746808.04, 165, 88, 39),
+('9157 Orion Path
+Rutherfordton, RI 34939', 'Cottage', 1457537.91, 453, 31, 25),
+('25108 Marcos Cove
+Whitestad, NM 54718-7596', 'House', 2494445.06, 362, 54, 18),
+('67288 Rowe Ridges Suite 205
+Bogisichville, MA 37040-3414', 'Apartment', 4516921.08, 346, 85, 28),
+('3401 Gorczany Mountains Apt. 047
+Eulalialand, CT 01258-9596', 'Villa', 4524705.94, 283, 31, 10),
+('6823 Dare Ford
+Lorenburgh, MD 53601-2117', 'House', 2255623.85, 348, 3, 20),
+('35764 Kutch Coves
+Feestberg, ND 36281-4245', 'Villa', 2711068.93, 64, 67, 1),
+('27812 Lilyan Street
+Damienmouth, CA 75203', 'House', 2929157.36, 58, 91, 42),
+('32542 Gulgowski Divide Apt. 886
+Malcolmton, DE 01248-2239', 'Cottage', 537851.55, 496, 88, 7),
+('46549 Schuster Gardens Apt. 981
+North Nora, NC 36357-3538', 'Apartment', 4619791.27, 386, 53, 35),
+('9175 Harvey River
+East Letha, TX 22361-4636', 'Villa', 2604794.95, 133, 77, 17),
+('78019 Veum Estates
+New Loma, WV 09092-0402', 'Villa', 1910915.29, 70, 92, 43),
+('460 Marlon Village Suite 916
+South Retaport, VA 22326', 'Condo', 3504501.09, 420, 7, 3),
+('635 Renner Manor
+South Ciara, MD 55875-9302', 'Villa', 1913071.48, 277, 71, 49),
+('2340 Jabari Gateway Apt. 724
+Roweville, VT 22907', 'Condo', 4451019.32, 465, 81, 20),
+('679 Erik Gateway Apt. 050
+Nienowmouth, AL 24644', 'Cottage', 697579.16, 401, 97, 39),
+('42407 Gulgowski Fields Apt. 060
+New Katheryn, DC 36782-7236', 'Condo', 307097.22, 385, 48, 46),
+('7587 Guy Loaf Suite 986
+Ritchieberg, UT 38306', 'Condo', 115020.12, 496, 73, 27)
+;
+
+INSERT INTO Viewings (property_id, client_id, viewing_data) VALUES 
+(92, 1, '2023-07-25 09:07:44'),
+(42, 19, '2023-08-10 14:53:55'),
+(168, 80, '2023-06-18 10:00:15'),
+(51, 34, '2023-09-13 12:04:56'),
+(92, 67, '2023-04-12 02:07:00'),
+(86, 96, '2023-09-21 18:47:05'),
+(68, 72, '2023-05-27 13:54:50'),
+(26, 40, '2023-11-29 06:37:04'),
+(170, 99, '2023-01-15 07:02:59'),
+(111, 83, '2023-10-11 04:36:41'),
+(80, 85, '2023-11-15 10:42:51'),
+(158, 87, '2023-02-02 04:38:35'),
+(19, 47, '2023-07-02 16:33:11'),
+(87, 97, '2023-01-01 06:21:46'),
+(139, 52, '2023-07-06 09:01:16'),
+(186, 59, '2023-04-09 22:06:56'),
+(164, 60, '2023-01-27 18:28:58'),
+(67, 2, '2023-03-17 15:36:59'),
+(59, 37, '2023-04-06 19:05:19'),
+(12, 24, '2023-05-22 00:57:12'),
+(47, 56, '2023-11-01 19:57:50'),
+(200, 57, '2023-06-15 02:14:16'),
+(200, 57, '2022-12-31 16:55:15'),
+(5, 94, '2023-03-15 21:38:41'),
+(103, 22, '2023-04-11 14:56:27'),
+(192, 50, '2023-01-25 10:20:58'),
+(165, 65, '2023-05-25 10:35:15'),
+(198, 24, '2023-12-09 19:02:22'),
+(138, 61, '2023-10-21 06:04:43'),
+(166, 3, '2023-11-12 23:30:29'),
+(8, 66, '2023-03-22 04:51:42'),
+(195, 93, '2023-08-01 09:26:15'),
+(87, 81, '2023-02-18 19:05:22'),
+(75, 21, '2023-02-13 07:05:45'),
+(59, 58, '2023-03-13 12:51:59'),
+(149, 52, '2022-12-28 11:04:39'),
+(43, 1, '2023-12-12 03:47:44'),
+(63, 1, '2023-02-25 06:16:29'),
+(132, 50, '2023-12-22 11:26:50'),
+(36, 59, '2023-11-21 03:29:44'),
+(88, 50, '2023-11-25 06:23:48'),
+(34, 4, '2023-02-16 16:22:51'),
+(49, 87, '2023-06-26 06:27:36'),
+(39, 72, '2023-10-21 10:30:04'),
+(95, 68, '2023-04-30 04:02:03'),
+(163, 70, '2023-11-21 17:04:34'),
+(124, 41, '2023-05-20 14:21:47'),
+(199, 4, '2023-08-17 13:17:34'),
+(11, 56, '2023-12-14 10:59:27'),
+(184, 77, '2023-09-24 19:11:08'),
+(164, 35, '2023-03-22 21:43:18'),
+(125, 54, '2023-09-26 12:26:56'),
+(185, 60, '2023-04-29 15:33:08'),
+(44, 74, '2023-10-01 22:34:18'),
+(145, 11, '2023-08-30 00:20:56'),
+(11, 9, '2023-09-13 01:04:53'),
+(8, 64, '2023-02-19 20:01:41'),
+(172, 41, '2023-09-04 23:31:40'),
+(93, 27, '2023-02-22 23:13:20'),
+(149, 9, '2023-03-11 04:01:57'),
+(18, 69, '2023-06-07 19:55:33'),
+(51, 96, '2023-09-15 17:18:15'),
+(149, 53, '2022-12-28 14:11:36'),
+(73, 9, '2023-11-22 20:22:40'),
+(131, 71, '2023-01-16 05:11:36'),
+(75, 10, '2023-08-23 14:18:42'),
+(45, 77, '2023-08-15 04:03:29'),
+(61, 91, '2022-12-26 22:28:56'),
+(106, 58, '2023-07-23 04:49:16'),
+(133, 83, '2023-09-19 17:12:12'),
+(176, 45, '2023-09-30 02:15:50'),
+(160, 71, '2023-01-26 12:56:59'),
+(165, 97, '2023-03-15 23:08:41'),
+(139, 95, '2023-02-21 00:09:33'),
+(34, 14, '2023-08-30 01:01:32'),
+(117, 81, '2023-04-14 11:17:27'),
+(122, 26, '2023-11-05 14:13:46'),
+(184, 56, '2023-08-02 04:48:55'),
+(127, 61, '2023-10-16 19:08:37'),
+(32, 79, '2023-10-04 20:18:02'),
+(122, 60, '2023-01-12 17:00:13'),
+(180, 33, '2023-10-17 00:05:50'),
+(143, 31, '2023-09-17 17:41:35'),
+(100, 51, '2023-12-01 20:30:27'),
+(132, 99, '2023-04-26 00:46:54'),
+(50, 7, '2023-11-20 15:30:49'),
+(2, 100, '2023-08-01 02:26:23'),
+(30, 34, '2023-09-17 15:29:13'),
+(12, 88, '2023-05-11 20:31:01'),
+(188, 100, '2023-10-27 20:49:53'),
+(54, 20, '2023-01-22 11:22:11'),
+(189, 94, '2023-06-03 12:31:11'),
+(172, 6, '2023-02-11 15:13:22'),
+(198, 89, '2023-04-14 23:25:37'),
+(167, 70, '2023-03-31 08:32:02'),
+(102, 8, '2023-10-29 06:23:07'),
+(141, 48, '2023-08-24 21:09:28'),
+(185, 72, '2023-06-24 14:41:14'),
+(181, 19, '2023-05-10 15:30:22'),
+(12, 35, '2023-03-21 05:58:17'),
+(117, 65, '2023-06-01 21:51:03'),
+(106, 36, '2023-10-10 09:29:23'),
+(68, 49, '2023-03-24 14:27:42'),
+(26, 65, '2023-05-07 12:24:52'),
+(153, 92, '2023-03-16 09:59:36'),
+(47, 94, '2023-04-28 20:10:01'),
+(92, 59, '2023-08-10 03:39:23'),
+(142, 15, '2023-10-14 03:01:55'),
+(166, 89, '2023-02-08 01:03:45'),
+(53, 4, '2023-06-17 12:02:43'),
+(159, 80, '2023-12-09 09:08:19'),
+(17, 37, '2023-04-17 18:28:03'),
+(133, 71, '2023-09-18 21:22:01'),
+(123, 58, '2023-08-27 06:52:52'),
+(52, 3, '2023-11-24 12:36:04'),
+(135, 51, '2023-09-24 15:57:33'),
+(38, 7, '2023-04-12 09:02:53'),
+(14, 89, '2023-09-24 12:15:58'),
+(52, 98, '2023-09-09 11:32:07'),
+(138, 94, '2023-02-24 05:35:41'),
+(4, 14, '2023-04-23 00:16:56'),
+(94, 43, '2023-05-12 16:24:23'),
+(74, 46, '2023-05-06 07:54:50'),
+(188, 20, '2023-07-08 02:13:31'),
+(153, 21, '2023-01-18 13:02:43'),
+(72, 72, '2023-06-27 23:40:19'),
+(24, 93, '2023-04-01 14:23:49'),
+(114, 50, '2023-01-24 22:44:34'),
+(97, 27, '2023-10-22 06:25:43'),
+(100, 29, '2023-01-23 08:24:44'),
+(38, 1, '2023-08-16 03:14:51'),
+(134, 20, '2023-02-07 12:38:56'),
+(45, 25, '2023-12-11 13:36:58'),
+(42, 85, '2023-11-14 23:04:40'),
+(174, 95, '2023-04-01 20:00:45'),
+(139, 67, '2023-11-12 22:33:44'),
+(120, 43, '2023-03-28 16:03:00'),
+(14, 34, '2023-09-26 01:15:05'),
+(140, 62, '2022-12-30 22:24:31'),
+(105, 34, '2023-08-05 17:57:06'),
+(141, 10, '2023-06-11 12:11:41'),
+(136, 73, '2023-10-20 20:41:10'),
+(176, 28, '2023-03-09 09:34:57'),
+(150, 63, '2023-06-14 04:09:04'),
+(74, 89, '2023-02-28 23:51:27'),
+(98, 27, '2023-09-28 20:54:32'),
+(124, 86, '2023-07-06 23:21:35'),
+(167, 37, '2023-05-10 08:05:12'),
+(6, 49, '2023-10-03 15:43:03'),
+(42, 85, '2023-07-21 12:10:30'),
+(99, 79, '2023-01-15 07:08:46'),
+(23, 14, '2023-11-04 23:51:05'),
+(154, 38, '2023-01-21 10:16:23'),
+(109, 3, '2023-12-16 18:38:26'),
+(158, 65, '2023-12-06 00:36:03'),
+(33, 72, '2023-05-30 10:41:25'),
+(2, 92, '2023-07-04 01:29:16'),
+(114, 28, '2023-03-09 08:51:38'),
+(157, 12, '2023-08-05 04:08:07'),
+(40, 91, '2023-12-19 21:27:22'),
+(100, 58, '2023-01-10 02:38:37'),
+(11, 91, '2023-01-23 08:16:16'),
+(78, 65, '2023-04-24 09:05:10'),
+(193, 36, '2023-01-20 21:14:59'),
+(127, 41, '2023-02-14 14:34:01'),
+(108, 81, '2023-02-15 08:28:25'),
+(129, 99, '2023-02-14 13:27:17'),
+(21, 13, '2023-09-09 14:46:56'),
+(159, 21, '2023-05-23 19:03:43'),
+(12, 4, '2023-01-24 03:26:29'),
+(146, 38, '2023-01-14 09:17:08'),
+(15, 42, '2023-08-05 08:15:12'),
+(157, 77, '2023-02-21 07:28:56'),
+(177, 88, '2023-09-25 10:33:00'),
+(15, 70, '2023-03-22 23:31:16'),
+(186, 65, '2023-12-18 06:44:56'),
+(193, 13, '2023-12-04 02:49:23'),
+(29, 39, '2023-10-30 14:47:57'),
+(38, 80, '2023-09-02 22:37:42'),
+(79, 10, '2023-12-17 02:05:43'),
+(160, 33, '2023-11-11 03:59:42'),
+(62, 28, '2023-02-19 19:11:09'),
+(189, 25, '2023-10-05 00:55:46'),
+(137, 16, '2023-05-25 02:32:06'),
+(119, 66, '2023-12-18 03:44:58'),
+(162, 79, '2023-05-22 10:46:13'),
+(111, 34, '2023-02-24 14:32:49'),
+(145, 88, '2023-04-16 16:21:49'),
+(177, 83, '2023-12-07 01:37:30'),
+(165, 27, '2023-06-19 10:57:45'),
+(98, 28, '2023-02-12 19:42:33'),
+(73, 29, '2023-08-15 09:13:04'),
+(50, 86, '2023-03-18 14:47:05'),
+(80, 54, '2023-08-18 06:25:17'),
+(152, 54, '2023-09-01 15:11:51'),
+(190, 55, '2023-04-03 16:18:43'),
+(183, 13, '2023-12-05 01:05:06'),
+(21, 70, '2023-11-26 03:37:31'),
+(169, 73, '2023-06-02 02:21:57'),
+(116, 8, '2023-03-16 18:28:01'),
+(134, 70, '2023-12-18 21:03:47'),
+(150, 19, '2023-06-08 09:38:07'),
+(1, 80, '2023-10-31 13:43:15'),
+(148, 89, '2023-08-21 10:17:41'),
+(25, 37, '2023-02-07 08:46:09'),
+(77, 57, '2023-12-19 16:10:42'),
+(110, 5, '2023-06-29 05:52:35'),
+(43, 86, '2023-06-06 10:14:07'),
+(38, 15, '2023-11-03 08:35:34'),
+(171, 94, '2022-12-29 18:07:11'),
+(67, 23, '2023-07-28 07:26:59'),
+(167, 56, '2023-01-13 03:34:54'),
+(21, 21, '2023-10-17 03:20:45'),
+(57, 43, '2023-06-01 02:59:28'),
+(103, 97, '2023-12-16 16:26:11'),
+(35, 19, '2023-03-04 05:25:25'),
+(43, 19, '2023-11-04 21:31:35'),
+(93, 78, '2023-09-22 13:48:22'),
+(168, 97, '2023-02-22 23:14:32'),
+(93, 90, '2023-09-10 20:20:31'),
+(20, 15, '2023-05-03 21:31:52'),
+(109, 62, '2023-04-02 05:36:17'),
+(93, 24, '2023-12-24 19:25:11'),
+(101, 72, '2023-08-03 00:02:43'),
+(162, 21, '2023-02-01 09:15:21'),
+(32, 89, '2023-06-08 12:42:57'),
+(37, 48, '2023-10-01 01:34:12'),
+(125, 87, '2023-02-02 12:57:16'),
+(112, 35, '2023-07-10 11:51:15'),
+(37, 69, '2023-08-01 06:26:03'),
+(9, 65, '2023-02-21 04:23:08'),
+(91, 48, '2023-10-24 13:00:45'),
+(40, 54, '2023-12-03 03:17:10'),
+(176, 72, '2023-03-26 15:23:27'),
+(20, 8, '2023-03-15 13:17:17'),
+(150, 72, '2023-05-14 02:35:55'),
+(42, 40, '2023-09-22 13:47:07'),
+(139, 12, '2023-07-05 09:26:32'),
+(53, 20, '2023-11-18 04:59:19'),
+(82, 8, '2023-11-26 20:50:12'),
+(10, 3, '2023-07-28 00:19:57'),
+(156, 64, '2023-08-24 17:00:18'),
+(76, 26, '2023-06-14 13:13:06'),
+(67, 55, '2023-07-20 21:32:07'),
+(36, 25, '2023-05-30 08:57:37'),
+(194, 39, '2023-06-26 13:41:46'),
+(179, 15, '2023-05-12 14:27:42'),
+(25, 68, '2023-08-26 14:21:41'),
+(136, 61, '2023-06-14 17:43:09'),
+(44, 94, '2023-02-24 18:40:12'),
+(126, 62, '2023-02-27 20:33:04'),
+(11, 8, '2023-03-14 07:35:55'),
+(169, 61, '2023-05-30 01:09:39'),
+(23, 18, '2023-11-15 19:38:03'),
+(28, 44, '2023-10-21 16:57:59'),
+(37, 99, '2023-03-28 06:43:07'),
+(152, 85, '2023-08-08 12:03:55'),
+(50, 73, '2023-04-08 08:20:54'),
+(140, 83, '2023-05-06 11:50:15'),
+(44, 25, '2023-02-28 02:09:13'),
+(151, 21, '2023-06-03 06:57:25'),
+(58, 14, '2023-01-21 19:43:19'),
+(63, 84, '2023-06-21 02:22:59'),
+(198, 34, '2023-05-05 00:13:51'),
+(111, 82, '2023-02-23 14:50:58'),
+(116, 17, '2023-07-13 22:43:30'),
+(8, 29, '2023-05-26 22:50:10'),
+(56, 67, '2023-08-27 06:48:17'),
+(26, 16, '2023-11-02 04:30:16'),
+(38, 62, '2023-04-28 06:37:40'),
+(181, 76, '2023-01-25 06:21:46'),
+(111, 49, '2023-03-03 11:08:37'),
+(142, 74, '2023-09-17 12:31:21'),
+(87, 21, '2023-01-09 10:31:50'),
+(112, 7, '2023-01-27 16:47:50'),
+(36, 86, '2023-01-08 23:49:47'),
+(25, 21, '2023-05-24 00:35:36'),
+(170, 49, '2023-04-01 05:32:49'),
+(52, 48, '2023-01-17 19:33:05'),
+(48, 29, '2023-05-03 12:24:02'),
+(113, 60, '2023-04-04 20:02:56'),
+(128, 12, '2023-08-17 22:43:49'),
+(12, 69, '2023-07-19 11:29:15'),
+(43, 5, '2023-01-12 00:12:54'),
+(12, 17, '2023-12-20 03:08:30'),
+(63, 18, '2023-01-18 11:54:18'),
+(81, 28, '2023-04-27 18:08:03'),
+(21, 36, '2023-08-23 01:45:20'),
+(167, 41, '2023-12-14 06:25:55'),
+(39, 25, '2023-12-24 02:41:04'),
+(59, 63, '2023-12-21 01:15:58'),
+(10, 65, '2023-08-12 06:19:42'),
+(141, 32, '2023-09-12 23:28:01'),
+(97, 16, '2023-05-05 03:20:17'),
+(146, 30, '2023-04-26 20:17:53'),
+(178, 10, '2023-06-17 20:00:36'),
+(21, 32, '2023-07-15 03:37:34'),
+(151, 43, '2023-08-30 18:01:22'),
+(10, 68, '2023-03-13 23:52:30'),
+(96, 57, '2023-03-26 11:58:10')
+;
+
+INSERT INTO insurance (property_id, insurance_type, amount, valid_until) VALUES 
+(18, 'Auto Insurance', 6444.31, '2027-12-29'),
+(58, 'Home Insurance', 9190.04, '2028-07-12'),
+(71, 'Life Insurance', 9391.28, '2028-02-15'),
+(36, 'Auto Insurance', 8205.37, '2026-07-24'),
+(67, 'Life Insurance', 4923.2, '2028-09-26'),
+(30, 'Life Insurance', 1549.02, '2025-06-19'),
+(91, 'Home Insurance', 9707.54, '2025-05-10'),
+(97, 'Travel Insurance', 1387.5, '2027-12-08'),
+(36, 'Life Insurance', 7225.15, '2025-12-22'),
+(72, 'Home Insurance', 6673.64, '2028-08-27'),
+(85, 'Life Insurance', 3032.45, '2026-12-21'),
+(33, 'Health Insurance', 8135.36, '2024-05-30'),
+(94, 'Health Insurance', 1996.32, '2027-02-25'),
+(97, 'Health Insurance', 8092.02, '2026-10-05'),
+(26, 'Life Insurance', 7264.15, '2028-02-27'),
+(89, 'Home Insurance', 3817.51, '2027-09-30'),
+(74, 'Auto Insurance', 3321.11, '2026-12-13'),
+(82, 'Auto Insurance', 1702.03, '2025-03-03'),
+(10, 'Travel Insurance', 4435.81, '2027-09-04'),
+(27, 'Travel Insurance', 6205.3, '2025-08-21'),
+(59, 'Auto Insurance', 6706.97, '2028-05-12'),
+(75, 'Travel Insurance', 7118.41, '2024-08-01'),
+(64, 'Home Insurance', 1140.83, '2025-01-12'),
+(34, 'Life Insurance', 3016.63, '2024-07-13'),
+(59, 'Travel Insurance', 4260.5, '2028-01-24'),
+(8, 'Travel Insurance', 1683.79, '2025-03-27'),
+(73, 'Home Insurance', 4533.89, '2025-03-15'),
+(22, 'Health Insurance', 882.99, '2025-06-22'),
+(89, 'Auto Insurance', 5682.29, '2026-07-22'),
+(99, 'Travel Insurance', 8596.67, '2026-07-08'),
+(64, 'Auto Insurance', 5693.16, '2028-09-05'),
+(38, 'Travel Insurance', 5226.02, '2026-05-03'),
+(1, 'Travel Insurance', 817.47, '2024-06-27'),
+(40, 'Health Insurance', 105.44, '2028-04-10'),
+(15, 'Auto Insurance', 5856.03, '2024-12-13'),
+(55, 'Travel Insurance', 603.92, '2025-05-17'),
+(26, 'Travel Insurance', 9390.82, '2026-03-28'),
+(99, 'Travel Insurance', 6471.35, '2025-12-19'),
+(48, 'Travel Insurance', 9503.7, '2027-07-15'),
+(99, 'Auto Insurance', 9762.28, '2028-01-28'),
+(31, 'Travel Insurance', 8352.34, '2024-03-18'),
+(69, 'Home Insurance', 6670.34, '2027-05-02'),
+(56, 'Auto Insurance', 5966.38, '2027-02-07'),
+(96, 'Home Insurance', 6836.14, '2024-06-25'),
+(76, 'Auto Insurance', 3984.84, '2027-05-19'),
+(71, 'Travel Insurance', 4403.53, '2025-12-16'),
+(1, 'Health Insurance', 2211.13, '2028-10-01'),
+(2, 'Life Insurance', 1368.54, '2027-06-27'),
+(43, 'Home Insurance', 3320.47, '2026-02-14'),
+(83, 'Auto Insurance', 2236.32, '2026-06-26'),
+(71, 'Health Insurance', 3009.51, '2028-07-09'),
+(16, 'Travel Insurance', 3846.59, '2026-09-03'),
+(5, 'Travel Insurance', 739.28, '2027-01-23'),
+(30, 'Health Insurance', 4606.79, '2024-06-29'),
+(49, 'Travel Insurance', 764.29, '2026-05-02'),
+(26, 'Auto Insurance', 4121.78, '2027-01-19'),
+(50, 'Travel Insurance', 1431.81, '2024-06-10'),
+(38, 'Home Insurance', 3652.18, '2026-07-26'),
+(69, 'Life Insurance', 450.36, '2027-11-03'),
+(44, 'Life Insurance', 6158.64, '2027-12-08'),
+(73, 'Home Insurance', 3229.02, '2027-10-30'),
+(46, 'Life Insurance', 8403.12, '2024-09-07'),
+(76, 'Life Insurance', 3345.38, '2026-12-19'),
+(40, 'Health Insurance', 5678.85, '2024-11-14'),
+(13, 'Auto Insurance', 3060.12, '2027-08-03'),
+(34, 'Life Insurance', 3300.61, '2025-09-21'),
+(11, 'Health Insurance', 5967.67, '2025-08-23'),
+(8, 'Travel Insurance', 7038.99, '2024-11-02'),
+(29, 'Health Insurance', 2634.75, '2024-10-19'),
+(15, 'Travel Insurance', 784.03, '2027-10-16'),
+(66, 'Life Insurance', 2968.91, '2025-12-10'),
+(95, 'Travel Insurance', 5629.25, '2024-11-28'),
+(32, 'Auto Insurance', 7924.69, '2026-12-10'),
+(69, 'Home Insurance', 5994.94, '2027-04-30'),
+(21, 'Life Insurance', 1972.73, '2026-12-06'),
+(40, 'Health Insurance', 4927.92, '2027-07-30'),
+(56, 'Travel Insurance', 4108.48, '2024-06-25'),
+(56, 'Health Insurance', 5988.29, '2024-10-10'),
+(96, 'Health Insurance', 1753.81, '2026-01-02'),
+(53, 'Health Insurance', 7395.75, '2025-10-10'),
+(36, 'Home Insurance', 7991.19, '2027-06-18'),
+(87, 'Health Insurance', 9777.49, '2028-04-17'),
+(97, 'Home Insurance', 8455.65, '2028-11-12'),
+(3, 'Health Insurance', 9173.43, '2025-12-01'),
+(86, 'Home Insurance', 7040.95, '2024-08-23'),
+(95, 'Travel Insurance', 3057.92, '2027-05-24'),
+(75, 'Health Insurance', 601.56, '2027-01-24'),
+(66, 'Health Insurance', 3988.9, '2025-01-19'),
+(79, 'Auto Insurance', 8976.53, '2027-10-05'),
+(27, 'Travel Insurance', 6751.23, '2024-10-30'),
+(98, 'Health Insurance', 7674.38, '2028-05-02'),
+(37, 'Home Insurance', 3082.26, '2024-02-05'),
+(74, 'Health Insurance', 7456.01, '2026-07-19'),
+(99, 'Life Insurance', 419.3, '2025-03-06'),
+(80, 'Life Insurance', 2770.58, '2024-07-03'),
+(15, 'Health Insurance', 3569.66, '2028-01-06'),
+(42, 'Auto Insurance', 8926.29, '2028-09-02'),
+(71, 'Travel Insurance', 396.82, '2026-11-25'),
+(54, 'Home Insurance', 5214.28, '2027-05-08'),
+(50, 'Travel Insurance', 8372.98, '2024-08-04')
+;
+
+INSERT INTO Properties (address, type, price, area, owner_id, agent_id) VALUES 
+('6324 Volkman Orchard
+Hiramland, WY 68620-3409', 'Villa', 1402629.45, 472, 19, 5),
+('77262 Fabiola Trafficway
+Adrainmouth, CT 68416', 'Cottage', 3157663.92, 405, 86, 27),
+('141 Mallory Shoals Apt. 471
+Gretchenland, MI 26577', 'Cottage', 1907417.87, 469, 13, 30),
+('576 Stanley Rapid
+Simonischester, OH 62417-9750', 'House', 2739248.26, 74, 54, 48),
+('25736 Berneice Well
+Joneschester, MD 51614-1494', 'Condo', 3077180.64, 473, 26, 27),
+('31400 Quitzon Mountains Suite 538
+West Jodyhaven, GA 25216-3904', 'Cottage', 484453.22, 219, 65, 43),
+('3487 Adams Locks Apt. 848
+Rexside, TN 00901-2684', 'House', 1689250, 116, 82, 3),
+('887 O\'Reilly Drive Apt. 897
+Douglasbury, AR 37786', 'House', 2087899.94, 300, 84, 31),
+('14594 Jaren Orchard Apt. 293
+West Rhiannaburgh, DC 16152', 'House', 595372.79, 267, 59, 37),
+('7094 Sabryna Greens Apt. 305
+Lake Ezekielburgh, NH 63612', 'Villa', 1780037.15, 128, 84, 5),
+('32883 Hermiston Burgs Suite 586
+East Guadalupe, MO 71538', 'Condo', 4298918.06, 120, 82, 29),
+('2170 Deckow Radial Suite 317
+Lemkeburgh, CO 48642', 'Apartment', 1505782.99, 90, 52, 6),
+('346 Cathrine Fords Suite 672
+West Crystal, WI 99889', 'Villa', 1767823.47, 244, 20, 22),
+('541 Jacobi Locks Apt. 916
+Port Cierrafort, DE 21681', 'Villa', 3636825.01, 140, 29, 46),
+('93841 Maggio Springs
+Port Reynold, MS 08087-6756', 'Apartment', 1059876.06, 100, 5, 39),
+('3012 Green Wall
+New Barry, IA 21602', 'Apartment', 3392630.61, 498, 2, 5),
+('27556 Bergnaum Fords Apt. 496
+South Carmelport, NE 59241-5104', 'House', 1503190.24, 139, 95, 25),
+('873 Wolf Springs Apt. 181
+West Kelvinfort, ME 21296-7011', 'House', 2385410.84, 309, 6, 29),
+('5780 Jakubowski Turnpike
+South Katlynntown, KY 77905-7979', 'Villa', 573708.98, 413, 17, 44),
+('718 Tavares Vista
+North Samanthaton, ID 00399-4883', 'House', 4610957.55, 153, 71, 18),
+('7737 Dibbert Fort Apt. 986
+New Charity, IL 24698-8907', 'Cottage', 4246659.33, 172, 80, 38),
+('9879 Guido Stravenue
+Jaymeburgh, WI 22655-7980', 'Condo', 4705655.68, 129, 22, 31),
+('5533 Jaskolski Freeway
+South Maurine, NE 89364-2529', 'House', 2141836.98, 374, 62, 31),
+('45699 Humberto Estate
+North Annetteburgh, SC 56920-4662', 'Condo', 2196832.42, 476, 39, 9),
+('707 Maynard River
+North Gennaro, RI 27012-0268', 'Condo', 1105000.91, 422, 90, 45),
+('5533 Michele Ridge Suite 657
+Cristophershire, TX 62138', 'Cottage', 4171358.64, 268, 13, 26),
+('151 Gerlach Causeway
+West Cara, CA 42264-2625', 'Apartment', 705464.01, 227, 71, 23),
+('7467 Corkery Key
+Ernserland, UT 09757', 'Cottage', 2308443.93, 294, 11, 21),
+('632 Jeffrey Street
+West Stone, ND 96043-9512', 'Apartment', 3802971.51, 450, 32, 33),
+('58001 Langosh Course Apt. 948
+Guadalupefort, NH 84710', 'Apartment', 4292790.85, 250, 93, 28),
+('34141 Gleason Extensions
+West Omariside, MS 74779', 'Villa', 676043.71, 363, 6, 45),
+('9980 Hill Fields Apt. 921
+Ciceromouth, MA 41308-8991', 'Condo', 4950185.72, 296, 62, 47),
+('449 Enola Groves
+New Ivyborough, WY 44291-0141', 'Apartment', 3216506.88, 143, 20, 18),
+('733 Lambert Vista
+Harveytown, DE 13892-1566', 'Condo', 972102.08, 232, 43, 20),
+('641 Kilback Hills
+North Simeon, MS 58926', 'Condo', 4536688.97, 194, 47, 14),
+('524 Feeney Neck
+Schowalterburgh, WY 98893-4937', 'House', 2276108.43, 92, 7, 16),
+('2800 Berge Avenue
+West Jamalton, VT 99997-7068', 'Villa', 833487.58, 426, 37, 14),
+('15828 Haley Glen
+New Lulu, WY 14675', 'Cottage', 3454376.48, 67, 45, 16),
+('247 Feil Groves
+South Zula, MS 95928', 'Apartment', 1418972.95, 52, 12, 10),
+('5420 Toy Estate
+New Tania, DC 63617', 'Condo', 2604375.7, 434, 38, 20),
+('676 Skiles Plain
+East Kaleyville, UT 87043', 'Cottage', 4793104.2, 394, 79, 27),
+('5347 Raynor Village Suite 342
+Cesarburgh, FL 85027', 'House', 3651631.48, 269, 85, 14),
+('78411 Pfeffer Shoals Apt. 547
+Lake Steve, WV 87915', 'Cottage', 2312982.68, 500, 81, 12),
+('66148 Beryl Fort
+Kassulkeside, VT 99641', 'Cottage', 2758063.51, 211, 82, 35),
+('38546 Julia Ports Suite 819
+South Jaquanmouth, HI 50344-9596', 'Cottage', 4562517.62, 440, 8, 23),
+('8783 Kihn Road Suite 971
+Destineyland, AK 23966-8077', 'Cottage', 96764.72, 126, 35, 17),
+('373 Lynch Crescent
+Celiamouth, LA 85603-6728', 'House', 3254250.55, 163, 27, 37),
+('8098 Rippin Mountains
+Lake Federico, IN 61688-6715', 'Condo', 1687746.83, 236, 99, 32),
+('624 Tanya Streets Apt. 512
+North Gerardoberg, SD 05225', 'Villa', 2878514.29, 387, 79, 42),
+('409 Stewart Branch
+Meghanborough, NE 10687-9678', 'House', 2546193.91, 230, 86, 43),
+('6900 Justyn Plaza Apt. 287
+Murrayburgh, KY 84590-1704', 'Apartment', 348528.66, 164, 53, 6),
+('6396 Nathaniel Courts
+New Eladiofurt, MD 97169-6087', 'Condo', 4309487.97, 486, 33, 15),
+('16436 Nikolaus Island Suite 925
+West Kendra, DE 01024-1171', 'House', 3295464.18, 310, 74, 6),
+('979 Mortimer Junctions
+Hirthestad, NC 91609', 'Villa', 2473940.14, 191, 67, 45),
+('5115 Toni Land Suite 985
+Manuelatown, ID 53858', 'Villa', 584586.89, 460, 69, 9),
+('6859 Collins Extensions Apt. 627
+Gerholdchester, PA 33186-7239', 'Apartment', 823350.75, 432, 36, 18),
+('122 Tyrell Rest
+Brakusfurt, NH 27309', 'House', 2959320.84, 469, 5, 42),
+('36371 Stokes Wells
+East Lenny, SD 97125-8584', 'House', 994351.58, 355, 28, 50),
+('522 Kuhlman Village
+Schoenfurt, DC 38330-7833', 'Cottage', 2855829.97, 419, 28, 8),
+('9122 Wuckert Turnpike Suite 991
+Lake Mariannemouth, MO 18858-5060', 'House', 3512591.16, 132, 56, 3),
+('79042 Skylar Trace
+Calliechester, NJ 34193-4069', 'Apartment', 2004174.46, 55, 11, 3),
+('1427 Albin Ports
+East Arnoland, ID 75577', 'Apartment', 4461650.02, 445, 17, 40),
+('937 Littel Court
+Sashatown, MO 36665', 'Condo', 3020343.24, 157, 38, 25),
+('73330 Blaze Center
+Lake Gilbert, NV 29529', 'Apartment', 2641622.42, 458, 12, 31),
+('69376 Kelsi Path
+Corymouth, FL 54824-2796', 'Apartment', 667015.03, 477, 23, 10),
+('5465 Vita Garden
+East Marlen, MN 66087-8417', 'Cottage', 2115351.49, 325, 68, 26),
+('39469 Alba Ports Apt. 468
+New Diegofurt, FL 06802-5556', 'Condo', 3957603.84, 480, 81, 1),
+('304 Conn Flats
+West Rodrickview, ID 60675-6176', 'Apartment', 2086720.43, 129, 35, 3),
+('6831 Melisa Dale Suite 642
+West Keenan, CA 34506', 'House', 1310829.4, 453, 5, 4),
+('707 Klein Islands
+Mathiaston, LA 96431', 'Condo', 1308785.04, 313, 27, 37),
+('11655 Sigmund Cape Suite 380
+Charlottemouth, MN 91886-5269', 'House', 3064186.64, 282, 94, 9),
+('340 Shanahan Land
+Lake Noah, CO 53535', 'Cottage', 2479928.88, 398, 95, 4),
+('47480 Gerlach Row
+Lake Maddisonfurt, RI 40012-6380', 'Condo', 3576847.41, 277, 83, 41),
+('7739 Jannie Plaza Apt. 864
+New Dandretown, IL 75932', 'Villa', 2694166.01, 104, 91, 26),
+('459 Brandi Streets
+Sonnychester, TX 84284', 'House', 4151615.91, 70, 92, 10),
+('5683 Asa Vista
+Port Estel, PA 95827', 'House', 4344409.37, 454, 2, 29),
+('8909 Gladyce Viaduct Suite 156
+Emilioberg, AK 71154-2958', 'Apartment', 439479.08, 358, 14, 1),
+('18025 Kemmer Light Suite 701
+North Darby, OR 35664-0352', 'Apartment', 1659444.25, 89, 5, 38),
+('987 Connie Walk
+Ruthieside, MO 71455-4658', 'Condo', 2347173.26, 338, 18, 11),
+('7518 Kilback Estate
+Lake Cullen, MD 17935', 'Villa', 1234581.95, 117, 51, 36),
+('317 Mills Way Apt. 132
+Jerdemouth, MS 08246', 'Villa', 3095026.54, 101, 14, 10),
+('185 Deonte Roads Suite 290
+Auerfurt, OR 97726-5962', 'Condo', 1170026.09, 438, 48, 21),
+('5625 Lucious Tunnel
+Port Jody, WY 70570-4331', 'Condo', 930831.46, 401, 22, 44),
+('27562 Goldner Pike
+West Colinville, NJ 31957-8074', 'Villa', 1366090.94, 439, 87, 31),
+('605 Ofelia Junctions Apt. 585
+Pfannerstillfort, KS 38006', 'Apartment', 106861.28, 319, 98, 32),
+('259 Mireille Way
+Lake Crawford, MA 41576-6223', 'Apartment', 4476492.26, 315, 11, 42),
+('34222 Lyda Street Apt. 766
+East Rebekastad, CO 27287-2248', 'Cottage', 299661.89, 237, 94, 14),
+('271 Kuhn Via
+Floside, RI 33554-5864', 'Condo', 3201823.71, 101, 53, 27),
+('40590 Gibson Hills
+North Jonatan, KY 36104-4964', 'Condo', 151538.28, 347, 75, 21),
+('556 Donnelly Flats Apt. 188
+Clementinemouth, MI 60723', 'Apartment', 3234138.91, 266, 58, 12),
+('77526 Gutmann Walk Apt. 022
+Larkinbury, NC 23532', 'Villa', 2676335.41, 232, 90, 3),
+('6503 Cassin Orchard
+North Pasquale, CA 51180-8199', 'Villa', 4788749.75, 139, 59, 35),
+('4735 Boehm Street Apt. 906
+East Antonettefurt, UT 51966', 'Cottage', 3763461.2, 87, 12, 50),
+('215 Isaiah Center
+Johnsville, VT 69576-6825', 'Apartment', 4425492.37, 219, 78, 30),
+('52420 Coy Brooks Suite 933
+West Salmabury, MI 76719', 'Apartment', 4365161.57, 233, 45, 2),
+('4762 Ardith Place Suite 576
+West Gildabury, CO 92924', 'Condo', 2252856.58, 472, 36, 14),
+('893 Hoppe Roads Apt. 176
+Emeliemouth, IL 48177', 'Cottage', 3940928.68, 448, 51, 17),
+('7079 Blanda Cliffs
+Taylorhaven, ME 71239-6503', 'House', 1216461.37, 311, 52, 26),
+('77441 Olson Key Apt. 515
+East Ocieshire, MD 67465-0917', 'Villa', 2521207.77, 415, 31, 39),
+('8431 Cummings Roads Apt. 284
+Wehnerside, ND 41905-8441', 'House', 1468931.56, 157, 79, 50),
+('13250 Gerhold View
+New Olenton, CA 86873', 'House', 1058460.67, 497, 25, 35),
+('3722 Amir Lakes
+Lake Damarisview, IN 38855-2494', 'Villa', 2902200.74, 263, 79, 27),
+('676 Dach Islands Apt. 868
+Elenorborough, NJ 06487-5221', 'Villa', 2701535.99, 133, 82, 47),
+('15539 Harvey Roads Apt. 900
+Lake Trever, WI 78681-7393', 'Villa', 4146753.06, 233, 43, 4),
+('83439 Dicki Ferry Apt. 920
+Greenholtside, PA 95128-1353', 'Apartment', 2605683.69, 149, 20, 38),
+('965 Windler Field Suite 817
+Schadenville, GA 32918-2413', 'Cottage', 920613.4, 124, 3, 47),
+('5386 Justen Manors Apt. 070
+North Barbarashire, MT 90332', 'Villa', 1202089.33, 384, 62, 34),
+('7951 Hazle Centers Apt. 457
+Lake Tina, WY 97128-4831', 'House', 911585.24, 465, 6, 19),
+('4631 Barrows Crossroad
+Altenwerthfurt, MO 58605', 'House', 1770320.37, 443, 100, 31),
+('731 Moen Street
+Loweside, NE 43280', 'Apartment', 1927994.81, 162, 55, 38),
+('41191 Vandervort Courts Apt. 125
+Lake Jakobstad, VA 96292-6327', 'Condo', 1861528.41, 62, 7, 36),
+('6040 Dina Heights
+Davismouth, UT 60556-7233', 'Apartment', 2395645.72, 382, 88, 39),
+('19525 Keeling Viaduct
+Loycechester, OR 95846', 'Condo', 3652313.91, 366, 35, 21),
+('514 Carrie Hill Apt. 922
+Karianeton, OK 33912-1453', 'Apartment', 4644381.86, 55, 79, 10),
+('816 Streich Mountain Apt. 754
+Mayerfurt, TX 56531', 'Cottage', 2233393.7, 303, 97, 25),
+('9525 Kailee Plains
+East Duanehaven, IL 86554-2945', 'Villa', 170616.53, 388, 71, 8),
+('868 Senger Harbor
+Parisianside, MT 27466', 'Villa', 4076713.11, 351, 27, 13),
+('5002 Green Drive
+Watsicafort, LA 29116-0770', 'Villa', 312931.33, 295, 33, 35),
+('7057 Nicolas Meadow
+West Aldabury, LA 99638', 'Villa', 812501.25, 174, 72, 37),
+('59346 Mariam Street
+Gleasonport, HI 60532-1544', 'Cottage', 1271000, 374, 15, 12),
+('72498 Brandt Estates
+Santinoland, OR 22586-7581', 'Cottage', 628194.46, 114, 25, 28),
+('16955 Tyra Garden Apt. 240
+Greenshire, WI 61871', 'Apartment', 355315.55, 431, 39, 27),
+('5349 Terry Mission Suite 164
+Port Whitney, CO 32421-0241', 'Condo', 910781.97, 427, 7, 30),
+('79980 Juston Rapids Apt. 797
+Louietown, KS 34257', 'House', 975431.47, 448, 20, 21),
+('1073 Bruen Light
+Alannaburgh, HI 63648-3877', 'Condo', 3780623.69, 363, 56, 18),
+('445 Ellis Villages Apt. 053
+Hollieview, FL 23061-2481', 'Apartment', 2075436.37, 192, 58, 42),
+('1540 Hane Estate Apt. 395
+Lake Hoyt, WI 77302-1173', 'Villa', 2068489.51, 217, 25, 49),
+('34905 Williamson Road
+South Bobbyview, KS 19367-9951', 'Cottage', 355421.62, 444, 24, 18),
+('604 Hermiston Pike Suite 207
+Port Virgil, OK 98981', 'Apartment', 1651025.48, 271, 92, 12),
+('4433 Johnathon Points
+Morarfort, DC 41157', 'Apartment', 3233618.33, 97, 98, 28),
+('36908 Sonia Burgs Suite 597
+Rickiehaven, MA 37624-9930', 'Cottage', 779068.17, 109, 32, 4),
+('90921 Laron Ridge
+Eichmannland, VT 37738', 'Villa', 3523170.99, 368, 47, 7),
+('762 Bergstrom Oval Suite 424
+New Darien, NY 60568-3062', 'Condo', 3445721.43, 76, 14, 29),
+('354 Matt View
+South Garfieldborough, AR 72931', 'Condo', 2501140.14, 488, 54, 19),
+('979 Ima Manor
+Abbottborough, MN 63241-3510', 'Apartment', 3914223.21, 83, 28, 28),
+('5085 Feest Summit Suite 760
+Lake Brock, GA 60597-9733', 'Condo', 742735.87, 218, 83, 50),
+('6608 America Prairie
+East Mariahchester, MA 47680-8981', 'House', 909525.08, 181, 12, 2),
+('7803 Smitham Hollow
+Port Rodolfo, IA 83201-2706', 'Villa', 1838485.97, 454, 55, 17),
+('91109 Edythe Dam
+Kodyville, NC 92397-1847', 'Condo', 1604669.16, 379, 59, 34),
+('7200 Kayli Lane
+Javontemouth, OH 69177-5469', 'Condo', 1126305.42, 246, 22, 20),
+('38506 Tristin Crossroad Suite 997
+Lisaside, NH 28717', 'Apartment', 1610558.05, 122, 81, 25),
+('4174 Schimmel Path Apt. 659
+West Lenore, GA 26325-6880', 'Villa', 2488948.96, 97, 25, 50),
+('1011 Armstrong Mill Suite 176
+Lake Flossie, GA 51201', 'Condo', 4837855.92, 147, 18, 7),
+('97328 Lafayette Mountain
+Imogeneland, AZ 40026-2924', 'Cottage', 1494419.18, 210, 53, 24),
+('356 Mueller Dale Apt. 428
+Dulcetown, ND 04771', 'Condo', 1043064.26, 296, 93, 30),
+('444 Will Crossing Apt. 799
+Cynthiaburgh, IN 32414-1531', 'House', 4918773.21, 209, 6, 38),
+('72647 Vernie Curve Suite 014
+Lake Margarettside, NE 25435', 'Villa', 4446031.06, 100, 8, 17),
+('99077 Bettye Bypass Apt. 343
+Wolffort, MN 68387-4830', 'Condo', 1036609.96, 218, 51, 33),
+('19077 Pfeffer Lodge
+Schroederside, LA 04484', 'Condo', 2801557.01, 459, 64, 4),
+('46446 Krajcik Centers
+Lake Jana, MI 32684-3850', 'House', 790156.61, 320, 12, 38),
+('9400 Bashirian Divide Apt. 746
+Welchtown, IL 36872-3395', 'Cottage', 3472927.63, 276, 51, 38),
+('142 McLaughlin Spur
+South Ceasarfort, HI 08944-8724', 'Apartment', 1867366.15, 471, 100, 25),
+('470 Bartell Plaza
+Port Zanemouth, OR 51117', 'Condo', 3627366.23, 207, 94, 1),
+('487 Tito Underpass Apt. 618
+East Wilbert, KY 80624-2383', 'House', 89997.58, 355, 66, 17),
+('61044 Osinski Greens Suite 535
+Schimmeltown, MN 41712-7747', 'Villa', 2586791.58, 435, 24, 44),
+('22557 Kacie Plains Apt. 222
+North Lou, DC 41000', 'House', 4036431.77, 349, 1, 44),
+('931 Marty Stravenue
+Ambroseside, FL 94934-3371', 'Cottage', 3481257.6, 371, 29, 25),
+('44576 Aliza Drive Suite 295
+Cummingsburgh, VT 04343', 'Villa', 722689.91, 396, 20, 8),
+('31792 Blanda Cape
+North Loriburgh, UT 63976', 'House', 4434257.26, 378, 37, 23),
+('413 Will Point Suite 271
+Gastonburgh, RI 71692-5944', 'House', 2808869.31, 273, 90, 11),
+('47726 Anderson Mountains Suite 370
+Coltshire, MA 23740-6412', 'Cottage', 3550596.22, 132, 46, 7),
+('52769 Considine Common Suite 397
+West Newton, MA 89641', 'Cottage', 432908.55, 408, 89, 25),
+('817 Kirlin Estates Apt. 313
+Bogisichburgh, MI 33714-7042', 'House', 2338659.02, 68, 34, 37),
+('36500 Waelchi Common
+Zeldahaven, AK 86946', 'Condo', 2390881.15, 145, 79, 9),
+('239 Kub Extension
+New Lila, AR 81802', 'Apartment', 1914504.28, 50, 42, 25),
+('996 Kelley Path
+North Sheamouth, OH 79098', 'Cottage', 852188.46, 256, 21, 15),
+('913 O\'Hara Groves Apt. 806
+Port Gerda, NC 99799-0882', 'Villa', 3123829.85, 390, 67, 28),
+('6620 Aufderhar Views
+New Samantatown, CT 91550-8106', 'Apartment', 3180033.1, 61, 82, 12),
+('4724 Shyanne Pike
+South Ransom, HI 32232-8540', 'Cottage', 1740060.78, 344, 6, 14),
+('4228 Edmond Terrace Apt. 154
+Verlaton, IL 52987-4016', 'Villa', 1493003.41, 357, 21, 15),
+('49634 Crona Unions Apt. 689
+South Emelia, MA 78830-7914', 'Villa', 2601181.75, 430, 41, 17),
+('29041 Cameron Rue Apt. 012
+Antoniaborough, NH 56549', 'Cottage', 268573.95, 80, 78, 16),
+('54181 Ratke Station Apt. 765
+Schneiderfurt, ME 63462', 'Apartment', 290891.93, 329, 15, 9),
+('24705 Molly Inlet Suite 929
+Port Nichole, OH 48356-6561', 'Villa', 2225656.62, 151, 36, 42),
+('262 Paucek Mountains
+Hackettshire, MT 62092', 'Villa', 1919064.41, 264, 61, 41),
+('79647 Reanna Hollow
+Cadenberg, OH 13025', 'Condo', 3457590.53, 377, 36, 42),
+('3118 Flatley Center Suite 264
+Antoniettaburgh, OR 14337', 'Condo', 3233242.91, 270, 97, 25),
+('1722 Michelle Court
+Sageton, OH 77646-2712', 'Condo', 266136.91, 101, 6, 15),
+('6131 Caesar Lodge
+Liamstad, FL 42040', 'Condo', 1391912.06, 393, 14, 45),
+('96489 Tristin Ridges
+Geraldton, NY 99983-3008', 'Condo', 3374994.92, 104, 12, 2),
+('4566 Stephan Drives Suite 737
+Port Josieberg, SD 69106', 'House', 323575.65, 121, 98, 49),
+('49801 Imelda Squares Suite 047
+West Angelita, GA 41973-6269', 'House', 466250.36, 51, 71, 42),
+('2336 Dooley Fort Apt. 285
+Kayleighhaven, TX 40208-5531', 'Cottage', 746808.04, 165, 88, 39),
+('9157 Orion Path
+Rutherfordton, RI 34939', 'Cottage', 1457537.91, 453, 31, 25),
+('25108 Marcos Cove
+Whitestad, NM 54718-7596', 'House', 2494445.06, 362, 54, 18),
+('67288 Rowe Ridges Suite 205
+Bogisichville, MA 37040-3414', 'Apartment', 4516921.08, 346, 85, 28),
+('3401 Gorczany Mountains Apt. 047
+Eulalialand, CT 01258-9596', 'Villa', 4524705.94, 283, 31, 10),
+('6823 Dare Ford
+Lorenburgh, MD 53601-2117', 'House', 2255623.85, 348, 3, 20),
+('35764 Kutch Coves
+Feestberg, ND 36281-4245', 'Villa', 2711068.93, 64, 67, 1),
+('27812 Lilyan Street
+Damienmouth, CA 75203', 'House', 2929157.36, 58, 91, 42),
+('32542 Gulgowski Divide Apt. 886
+Malcolmton, DE 01248-2239', 'Cottage', 537851.55, 496, 88, 7),
+('46549 Schuster Gardens Apt. 981
+North Nora, NC 36357-3538', 'Apartment', 4619791.27, 386, 53, 35),
+('9175 Harvey River
+East Letha, TX 22361-4636', 'Villa', 2604794.95, 133, 77, 17),
+('78019 Veum Estates
+New Loma, WV 09092-0402', 'Villa', 1910915.29, 70, 92, 43),
+('460 Marlon Village Suite 916
+South Retaport, VA 22326', 'Condo', 3504501.09, 420, 7, 3),
+('635 Renner Manor
+South Ciara, MD 55875-9302', 'Villa', 1913071.48, 277, 71, 49),
+('2340 Jabari Gateway Apt. 724
+Roweville, VT 22907', 'Condo', 4451019.32, 465, 81, 20),
+('679 Erik Gateway Apt. 050
+Nienowmouth, AL 24644', 'Cottage', 697579.16, 401, 97, 39),
+('42407 Gulgowski Fields Apt. 060
+New Katheryn, DC 36782-7236', 'Condo', 307097.22, 385, 48, 46),
+('7587 Guy Loaf Suite 986
+Ritchieberg, UT 38306', 'Condo', 115020.12, 496, 73, 27)
+;
+
+INSERT INTO Transactions (troperty_id, buyer_id, seller_id, amount, transaction_date) VALUES 
+(62, 11, 21, 744567.97, '1981-08-29'),
+(127, 13, 31, 775615.77, '2008-11-21'),
+(194, 94, 78, 891212.54, '1970-09-09'),
+(147, 25, 26, 333983.43, '2020-08-15'),
+(128, 68, 59, 287182.63, '2010-09-26'),
+(137, 89, 69, 887101.02, '1998-02-03'),
+(91, 58, 34, 131097.28, '2012-03-26'),
+(134, 47, 36, 384704.6, '1999-07-14'),
+(166, 62, 2, 494412.99, '2006-03-15'),
+(43, 31, 56, 991252.82, '2022-11-26'),
+(94, 25, 43, 368815.28, '2008-01-13'),
+(63, 94, 75, 633135.85, '1973-12-29'),
+(114, 45, 15, 686066.77, '2008-06-18'),
+(44, 48, 74, 410058.17, '1986-01-22'),
+(23, 59, 51, 795555.02, '2014-04-11'),
+(169, 93, 39, 217776.31, '1984-02-04'),
+(193, 16, 41, 691790.79, '1982-05-27'),
+(19, 79, 32, 507010.57, '2006-07-10'),
+(99, 23, 84, 898026.24, '2002-02-05'),
+(90, 78, 30, 809873.06, '1989-06-26'),
+(51, 59, 67, 386131.75, '2018-09-22'),
+(108, 61, 64, 130157.61, '1995-09-23'),
+(102, 73, 63, 733321, '2011-03-16'),
+(20, 60, 14, 716909.94, '1991-11-26'),
+(200, 98, 53, 523106.19, '1996-12-20'),
+(176, 56, 88, 877618.93, '2001-02-15'),
+(61, 19, 97, 654326.01, '2021-12-26'),
+(200, 90, 34, 192586.83, '2008-08-31'),
+(82, 17, 75, 515353.67, '1972-05-07'),
+(69, 88, 5, 337298.25, '2001-10-21'),
+(41, 22, 11, 104111.54, '1972-04-26'),
+(72, 36, 78, 948678.28, '1992-01-29'),
+(43, 66, 3, 154215.73, '2003-06-22'),
+(58, 17, 74, 270355.17, '1997-11-11'),
+(83, 63, 4, 490560.69, '2016-04-12'),
+(145, 92, 90, 895253.96, '2008-11-27'),
+(148, 76, 93, 53471.58, '2017-06-02'),
+(115, 17, 81, 711008.55, '1984-12-18'),
+(107, 89, 71, 772941.99, '2004-10-18'),
+(167, 89, 9, 106841.54, '1972-11-16'),
+(160, 66, 24, 435849.67, '2002-02-27'),
+(82, 78, 88, 608458.67, '2017-08-13'),
+(138, 95, 2, 926965.97, '2003-01-11'),
+(52, 4, 41, 313976.16, '1993-03-14'),
+(82, 95, 73, 688326.52, '2007-11-15'),
+(41, 32, 100, 692017.39, '1971-02-11'),
+(93, 64, 97, 885383.26, '2019-09-26'),
+(144, 14, 40, 355941.79, '1977-05-25'),
+(114, 18, 41, 982153.71, '2000-01-25'),
+(143, 40, 100, 19922.59, '1985-06-20'),
+(141, 66, 63, 338153.71, '2004-03-08'),
+(51, 61, 56, 263322.49, '1984-01-11'),
+(161, 19, 52, 793848.3, '2016-08-11'),
+(179, 56, 10, 495002.99, '2022-01-31'),
+(69, 44, 73, 235900.81, '1992-12-19'),
+(193, 46, 51, 274733.82, '2018-06-25'),
+(168, 93, 30, 547228.75, '2017-08-07'),
+(133, 96, 80, 895533.56, '2019-12-14'),
+(168, 50, 90, 401485.64, '1973-05-05'),
+(31, 22, 6, 68067.9, '1997-12-02'),
+(184, 58, 64, 985342.25, '2010-05-24'),
+(145, 63, 57, 449673.96, '2002-01-07'),
+(8, 15, 82, 70498.73, '1983-04-05'),
+(138, 97, 36, 335224.11, '2010-12-03'),
+(99, 66, 51, 43621.91, '1990-09-27'),
+(196, 15, 49, 887646.09, '2013-03-24'),
+(103, 9, 8, 292807.29, '1992-09-02'),
+(44, 92, 10, 855917.23, '2022-05-21'),
+(166, 18, 12, 317335.88, '2005-02-27'),
+(57, 20, 95, 114184.66, '2005-03-29'),
+(165, 27, 86, 633783.69, '1988-11-27'),
+(109, 26, 80, 508603.58, '2014-12-14'),
+(80, 9, 87, 826967.49, '1982-01-21'),
+(112, 37, 43, 901917.06, '2004-12-23'),
+(66, 48, 100, 704843.36, '2000-08-05'),
+(156, 8, 94, 333790.3, '1985-11-15'),
+(15, 87, 20, 825254.81, '1995-01-10'),
+(52, 2, 50, 287694.51, '1974-02-13'),
+(46, 76, 99, 211533.63, '1990-02-04'),
+(3, 5, 72, 213184.21, '1980-02-02'),
+(158, 80, 69, 102352.07, '1999-03-20'),
+(119, 14, 1, 489660.21, '1991-04-20'),
+(54, 8, 38, 342482.12, '2018-03-19'),
+(194, 19, 85, 945222.63, '1991-05-27'),
+(142, 26, 21, 862700.95, '1993-07-09'),
+(117, 84, 90, 522452.11, '2000-07-08'),
+(89, 83, 42, 730156.51, '1986-09-03'),
+(98, 99, 1, 866393.52, '1999-04-02'),
+(17, 36, 33, 305934.8, '1976-08-13'),
+(135, 28, 53, 243945.18, '1994-07-06'),
+(35, 5, 85, 51603.85, '2014-08-28'),
+(36, 88, 34, 623256.24, '2011-09-08'),
+(43, 40, 20, 431186.63, '2001-06-16'),
+(197, 15, 60, 113473.3, '1972-07-01'),
+(45, 100, 80, 84918.86, '2001-11-29'),
+(192, 39, 41, 213930.1, '2010-11-16'),
+(6, 17, 39, 218352.73, '1974-09-04'),
+(59, 84, 93, 609270.81, '1997-01-30'),
+(39, 37, 64, 588481.05, '2022-01-02'),
+(167, 61, 98, 307099.6, '1992-01-03'),
+(9, 9, 60, 638584.68, '2012-03-27'),
+(140, 69, 53, 408614.56, '1974-07-22'),
+(57, 43, 28, 73643.5, '2005-03-19'),
+(92, 61, 5, 155035.17, '1979-03-20'),
+(96, 70, 5, 232370.69, '2012-01-19'),
+(181, 6, 35, 827499.88, '1997-03-22'),
+(167, 29, 61, 538511.03, '1987-01-31'),
+(147, 9, 77, 575928.28, '1981-09-23'),
+(77, 24, 87, 80572.78, '1980-01-06'),
+(120, 23, 8, 633083.61, '2020-06-20'),
+(147, 86, 7, 800397.01, '2017-09-02'),
+(74, 10, 74, 853282.63, '2005-05-18'),
+(88, 15, 1, 930829.56, '2007-03-14'),
+(151, 94, 78, 206338.16, '1995-01-21'),
+(83, 70, 93, 211677.3, '1982-04-04'),
+(69, 54, 58, 438434.05, '2023-08-08'),
+(61, 77, 15, 213212.26, '2014-04-18'),
+(39, 31, 71, 637659.24, '2004-12-08'),
+(151, 46, 30, 285115.46, '1973-10-23'),
+(23, 78, 91, 255747.71, '1975-02-01'),
+(62, 34, 42, 371547.38, '2006-03-04'),
+(111, 35, 43, 314850.94, '1981-04-07'),
+(31, 51, 13, 372796.94, '1970-11-13'),
+(92, 2, 16, 963155.49, '2019-05-31'),
+(114, 56, 96, 529709.33, '1991-05-31'),
+(186, 47, 58, 722850.36, '1991-03-21'),
+(75, 4, 99, 593590.3, '1985-11-20'),
+(194, 25, 78, 74989.71, '1984-05-16'),
+(20, 36, 17, 650922.6, '1998-10-21'),
+(63, 22, 17, 387742.57, '2019-12-08'),
+(70, 89, 36, 263523.93, '2017-05-29'),
+(162, 31, 25, 782860.57, '1983-07-10'),
+(137, 22, 55, 579734.62, '1971-09-28'),
+(15, 91, 1, 925438.62, '2022-01-30'),
+(49, 39, 70, 492618.05, '1984-10-25'),
+(57, 86, 29, 606434.63, '1978-09-18'),
+(31, 70, 85, 590207.23, '1982-09-03'),
+(23, 41, 43, 514938.86, '1977-08-01'),
+(17, 42, 78, 845156.5, '2012-03-05'),
+(133, 41, 55, 162373.72, '1995-06-03'),
+(157, 75, 36, 202329.39, '1993-05-12'),
+(186, 63, 9, 968360.87, '1971-10-20'),
+(108, 38, 30, 626772.62, '1984-09-01'),
+(22, 7, 49, 250737.17, '2016-08-14'),
+(172, 77, 42, 470444.56, '1988-02-11'),
+(38, 49, 29, 643569.25, '2015-05-07'),
+(29, 97, 51, 532901.54, '2011-01-02'),
+(121, 9, 22, 61381.32, '1987-03-18'),
+(153, 72, 23, 177147.71, '1971-12-10'),
+(43, 90, 88, 401598.18, '1999-10-29')
+;
+
+INSERT INTO Repairs (property_id, description, cost, completion_date) VALUES 
+(184, 'Praesentium qui est dignissimos omnis et.', 4494.27, '1978-04-28'),
+(11, 'Esse temporibus omnis molestiae ut blanditiis.', 210.62, '1990-05-01'),
+(17, 'Aut ipsa culpa ut quis assumenda ipsa.', 4760.56, '2013-09-09'),
+(13, 'Perferendis sapiente deserunt ut aliquid.', 2539.94, '1985-02-27'),
+(200, 'Mollitia omnis mollitia et quas dicta mollitia.', 619.17, '2010-06-23'),
+(160, 'Incidunt et error quo esse est consequuntur.', 780.25, '2003-12-04'),
+(24, 'Dolor saepe perferendis dicta id iusto.', 6397.68, '1997-01-28'),
+(118, 'Libero non error recusandae aliquid.', 7349.35, '2000-11-27'),
+(151, 'Molestiae aut dolorem et omnis.', 2409.93, '2020-11-24'),
+(194, 'Necessitatibus quasi non eius quo vero laudantium.', 6541.29, '1973-03-31'),
+(118, 'Quam similique amet repellendus officia sed officia dignissimos.', 2766.89, '1993-07-24'),
+(112, 'Qui harum autem vel inventore assumenda est.', 2758.63, '1983-10-18'),
+(52, 'Voluptatem omnis fugiat ab labore inventore error.', 4598.91, '2022-07-21'),
+(56, 'Quos aperiam quia unde dolores aut autem dolores.', 3842.54, '1987-09-18'),
+(171, 'Enim mollitia iusto sapiente sapiente sed cum voluptatibus.', 5162.42, '1990-05-30'),
+(1, 'Quia iste quam officiis dolore quasi totam.', 1481.51, '1997-03-31'),
+(11, 'Voluptas voluptate atque laborum perspiciatis qui aut.', 5180.47, '1980-04-02'),
+(191, 'Molestiae eaque est et non cupiditate accusantium voluptatibus.', 9958.18, '1986-08-18'),
+(146, 'Et ratione rerum quia quasi dicta necessitatibus.', 5744.59, '2015-03-21'),
+(195, 'Quos debitis libero non ea laborum nemo aut.', 6095.18, '1987-08-26'),
+(59, 'Et ex velit minus mollitia hic aut.', 3572.83, '1985-01-11'),
+(75, 'Corrupti at consequatur est ea veniam sint nemo fugiat.', 283.53, '1981-09-13'),
+(190, 'Totam amet soluta in autem rem eos.', 8311.74, '2021-09-22'),
+(51, 'At necessitatibus officiis odit officiis.', 7232.94, '2019-04-18'),
+(50, 'Est labore ducimus velit nesciunt officia necessitatibus eum.', 7276.79, '2010-07-19'),
+(120, 'Quidem molestias reiciendis voluptatibus est.', 7400.33, '2002-06-11'),
+(20, 'Aut vel totam laudantium ex expedita.', 1414.73, '1989-08-03'),
+(67, 'Distinctio illum qui accusantium dolores adipisci aut.', 6914.66, '1992-10-31'),
+(67, 'Repudiandae placeat id qui blanditiis autem.', 9614.14, '2012-07-09'),
+(186, 'Debitis perspiciatis voluptatum officia amet excepturi.', 1973.19, '1984-09-02'),
+(150, 'Labore sed commodi omnis culpa et voluptas in.', 968.72, '1972-12-10'),
+(165, 'Adipisci non et ratione deserunt minus.', 8602.32, '1994-03-22'),
+(186, 'Ad dolor molestias cumque dignissimos.', 1790.06, '1975-12-19'),
+(103, 'Expedita reprehenderit impedit ipsa nam ea.', 1290.43, '1983-12-27'),
+(182, 'Quo atque ipsum velit adipisci veniam rerum illum.', 7681.61, '1975-10-30'),
+(109, 'Aut facilis deleniti quos molestiae fugit.', 4819.3, '1977-05-19'),
+(26, 'Laudantium assumenda atque est.', 3859.31, '1972-10-27'),
+(138, 'Nostrum magni porro quia quos consectetur amet.', 4469.68, '1978-04-23'),
+(11, 'Nisi repudiandae repellendus soluta veniam.', 9253.48, '1996-04-08'),
+(152, 'Qui quidem odio aspernatur et dolores.', 2174.2, '2000-07-27'),
+(165, 'Cumque fugiat tempora voluptas fuga accusantium.', 4579.07, '2021-11-04'),
+(142, 'Provident quia repudiandae doloremque doloribus aliquam.', 6680.35, '1990-05-15'),
+(130, 'Tempora qui laudantium ipsa consequuntur.', 2331.72, '1979-03-31'),
+(63, 'Et in eos dolorum eum quod.', 8228.3, '2019-01-10'),
+(151, 'Maxime quas blanditiis fugit adipisci beatae minima autem.', 2556.83, '2018-08-14'),
+(108, 'Nihil vel sit vitae sed necessitatibus amet explicabo quia.', 5599.37, '1991-08-24'),
+(137, 'Officiis quasi voluptatem rerum possimus debitis aliquam et.', 6387.97, '2016-11-10'),
+(49, 'Quos qui quae ut blanditiis.', 3641.09, '1983-05-22'),
+(153, 'Explicabo sed odit alias et unde dicta qui.', 3122.74, '1990-09-27'),
+(53, 'Dicta et pariatur sapiente.', 3886.22, '1976-03-27'),
+(50, 'Qui et iure exercitationem recusandae officia molestiae.', 8648.65, '2008-04-04'),
+(21, 'Veniam quibusdam omnis cumque et ad ratione.', 513.24, '1988-11-10'),
+(44, 'Vero quo placeat porro perferendis libero.', 7033.24, '2012-01-11'),
+(17, 'Alias labore reiciendis consequatur incidunt quidem.', 9032.45, '2009-07-03'),
+(170, 'Nesciunt qui aspernatur molestiae et id dolor animi.', 7434.44, '2017-11-05'),
+(114, 'Odit consequuntur dolores voluptate earum.', 8509.84, '1976-04-14'),
+(154, 'Aliquid aut ut laboriosam error iusto hic.', 2196, '1982-06-23'),
+(181, 'Ipsa eos consequatur beatae enim.', 5941.25, '1983-05-26'),
+(176, 'Expedita repellendus quia ut magnam consequatur.', 5740.17, '1986-11-11'),
+(50, 'Modi velit temporibus consequatur dolorum ut in ut est.', 1212.98, '2009-11-07'),
+(53, 'Perspiciatis qui iusto animi nobis.', 2686.71, '1996-03-24'),
+(21, 'Commodi eveniet odio excepturi.', 6690.09, '1978-08-20'),
+(53, 'Illum aut est perferendis est.', 6924.57, '1996-12-21'),
+(132, 'Et molestiae animi sapiente eveniet laudantium.', 1123.72, '2006-05-21'),
+(88, 'Est recusandae voluptates tenetur quia.', 5590.67, '1982-05-17'),
+(62, 'Sequi a sit et perspiciatis perferendis rerum atque.', 5213.91, '2021-09-29'),
+(135, 'Vitae eum occaecati nostrum.', 5849.34, '1996-05-16'),
+(82, 'Adipisci et tenetur facilis sunt.', 5663.62, '2003-07-29'),
+(38, 'Labore ut officiis et officia suscipit tempore aut in.', 7091.31, '2022-01-06'),
+(152, 'Quos doloremque rerum accusamus nemo iure.', 6887.62, '1981-01-19'),
+(40, 'Sit temporibus iste perferendis voluptatum.', 7475.27, '1976-03-02'),
+(108, 'Sequi sint est rem.', 489.56, '2019-02-27'),
+(115, 'Voluptates tempore vel ut excepturi sed.', 7875.25, '1987-10-10'),
+(127, 'Asperiores reiciendis vel delectus officia omnis quasi voluptate.', 1547.22, '1987-06-02'),
+(139, 'Quia tempora consectetur sit quisquam.', 7303.82, '1974-07-04'),
+(156, 'Et debitis dolorem ut quidem et quasi.', 1073.93, '2007-07-21'),
+(95, 'Illo sunt illo odio incidunt temporibus atque minus.', 6332.27, '2020-08-12'),
+(73, 'Ab impedit sunt mollitia sit.', 3607.03, '1975-08-01'),
+(117, 'Deserunt occaecati facilis harum ratione ut aperiam.', 4144.69, '1983-09-17'),
+(70, 'Eum porro recusandae hic eum eius.', 4930.71, '1993-01-23'),
+(79, 'Consequatur ipsa iste ipsa similique.', 709.1, '1981-07-12'),
+(199, 'Quis enim quo a commodi rem quas veniam.', 3393.32, '1995-12-02'),
+(69, 'Perferendis et qui officia.', 7626.4, '2019-03-21'),
+(87, 'Maiores earum consequuntur porro vel quas aut.', 5972.56, '2014-11-03'),
+(185, 'Et culpa vitae rem animi iusto.', 3505.96, '1970-12-17'),
+(198, 'Quas eum libero occaecati non exercitationem rem ut.', 6515.03, '1970-01-23'),
+(182, 'Vero nulla magnam ipsam.', 9170.52, '2015-09-30'),
+(56, 'Fugit ad qui saepe veniam.', 1038.45, '1994-05-31'),
+(77, 'Eveniet nisi cumque est facere.', 6160.1, '2006-04-30'),
+(97, 'Omnis aut dolores veniam ad placeat magni.', 3861.15, '1989-03-23'),
+(85, 'Nam tempore minus repellendus enim.', 3879.39, '1979-06-12'),
+(132, 'Explicabo quia rem dignissimos aut fugiat.', 5004.07, '1988-11-24'),
+(46, 'Veniam in ut tempore rerum eius.', 5726.92, '1979-12-06'),
+(163, 'Ut et dignissimos harum ipsam porro in ea est.', 1114.25, '2021-03-02'),
+(66, 'Quis unde ad earum minima quaerat.', 6389.79, '1971-02-16'),
+(162, 'Inventore animi cum velit unde minima temporibus deserunt.', 834.3, '1978-01-31'),
+(5, 'Est dolorum explicabo aut aut tenetur pariatur.', 6611.72, '1987-03-06'),
+(180, 'Non ad similique quia aspernatur ratione mollitia magnam id.', 8448.55, '2020-12-12'),
+(136, 'Fugit commodi unde quidem assumenda occaecati nihil.', 5600.72, '1990-02-13'),
+(100, 'Est dignissimos aut nihil consequatur quia.', 2602.7, '2022-09-30')
+;
+
+INSERT INTO Inquiries (description, client_id, status) VALUES 
+('Alice; \'I daresay it\'s a set of verses.\' \'Are they in the other. In the very tones of her childhood: and how she would keep, through all her knowledge of history, Alice had got its neck nicely.', 34, 'New'),
+('Mouse, frowning, but very politely: \'Did you speak?\' \'Not I!\' he replied. \'We quarrelled last March--just before HE went mad, you know--\' \'But, it goes on \"THEY ALL RETURNED FROM HIM TO YOU,\"\' said.', 40, 'Closed'),
+('There was a dead silence. \'It\'s a mineral, I THINK,\' said Alice. \'Why?\' \'IT DOES THE BOOTS AND SHOES.\' the Gryphon remarked: \'because they lessen from day to day.\' This was quite a new idea to.', 83, 'In Progress'),
+('They are waiting on the shingle--will you come to the jury, of course--\"I GAVE HER ONE, THEY GAVE HIM TWO--\" why, that must be the right thing to eat the comfits: this caused some noise and.', 87, 'Resolved'),
+('I wonder?\' Alice guessed who it was, and, as a boon, Was kindly permitted to pocket the spoon: While the Duchess asked, with another dig of her favourite word \'moral,\' and the sounds will take care.', 25, 'New'),
+('Alice went on planning to herself \'That\'s quite enough--I hope I shan\'t grow any more--As it is, I suppose?\' \'Yes,\' said Alice indignantly, and she did so, and were quite dry again, the Dodo could.', 53, 'In Progress'),
+('It was as much right,\' said the last concert!\' on which the cook was leaning over the fire, licking her paws and washing her face--and she is such a puzzled expression that she ought not to lie down.', 100, 'In Progress'),
+('I breathe\"!\' \'It IS a long silence after this, and after a few yards off. The Cat only grinned when it saw mine coming!\' \'How do you know about this business?\' the King sharply. \'Do you know the.', 62, 'New'),
+('Queen, stamping on the whole head appeared, and then sat upon it.) \'I\'m glad I\'ve seen that done,\' thought Alice. \'I\'ve tried the little thing grunted in reply (it had left off staring at the.', 97, 'Resolved'),
+('Even the Duchess asked, with another hedgehog, which seemed to be told so. \'It\'s really dreadful,\' she muttered to herself, (not in a low, timid voice, \'If you knew Time as well say,\' added the.', 17, 'Resolved'),
+('Queen, who had been broken to pieces. \'Please, then,\' said Alice, in a pleased tone. \'Pray don\'t trouble yourself to say \'creatures,\' you see, because some of them attempted to explain it as you.', 74, 'Closed'),
+('Rabbit say to itself, half to itself, \'Oh dear! Oh dear! I\'d nearly forgotten to ask.\' \'It turned into a line along the passage into the garden, where Alice could speak again. In a little ledge of.', 17, 'Resolved'),
+('Cat. \'--so long as I was thinking I should frighten them out with trying, the poor little juror (it was Bill, I fancy--Who\'s to go down--Here, Bill! the master says you\'re to go down the middle.', 60, 'Closed'),
+('Hatter. He came in sight of the way--\' \'THAT generally takes some time,\' interrupted the Gryphon. \'I\'ve forgotten the little creature down, and was just going to turn into a butterfly, I should be.', 84, 'Closed'),
+('THAT. Then again--\"BEFORE SHE HAD THIS FIT--\" you never had to be sure; but I grow at a reasonable pace,\' said the Cat, \'a dog\'s not mad. You grant that?\' \'I suppose so,\' said Alice. \'Who\'s making.', 51, 'Closed'),
+('I\'ve got to come out among the trees as well say,\' added the Queen. \'Their heads are gone, if it makes rather a hard word, I will just explain to you never had fits, my dear, and that he had never.', 88, 'Closed'),
+('Dormouse: \'not in that soup!\' Alice said to Alice; and Alice thought the whole thing, and longed to get into the wood to listen. \'Mary Ann! Mary Ann!\' said the Gryphon. \'Then, you know,\' said the.', 50, 'In Progress'),
+('Hatter. This piece of rudeness was more and more faintly came, carried on the song, perhaps?\' \'I\'ve heard something splashing about in the lap of her or of anything else. CHAPTER V. Advice from a.', 78, 'New'),
+('I\'ve finished.\' So they got thrown out to be no chance of this, so she bore it as to prevent its undoing itself,) she carried it out again, so violently, that she was a long sleep you\'ve had!\' \'Oh.', 61, 'New'),
+('March Hare and the pool rippling to the jury. \'Not yet, not yet!\' the Rabbit noticed Alice, as she added, \'and the moral of that is--\"The more there is of yours.\"\' \'Oh, I BEG your pardon!\' said the.', 13, 'Resolved'),
+('So Alice began in a tone of great surprise. \'Of course you don\'t!\' the Hatter began, in rather a complaining tone, \'and they drew all manner of things--everything that begins with an important air.', 86, 'New'),
+('SAID was, \'Why is a very decided tone: \'tell her something about the whiting!\' \'Oh, as to bring tears into her eyes; and once she remembered having seen such a thing before, but she thought it must.', 26, 'New'),
+('The Gryphon lifted up both its paws in surprise. \'What! Never heard of such a dear quiet thing,\' Alice went timidly up to them she heard a voice of the window, and one foot to the Knave of Hearts.', 3, 'Resolved'),
+('Alice! when she looked back once or twice, half hoping that the pebbles were all talking at once, while all the first figure,\' said the cook. The King looked anxiously round, to make it stop. \'Well.', 76, 'New'),
+('King said, with a little quicker. \'What a funny watch!\' she remarked. \'It tells the day of the court,\" and I shall be punished for it flashed across her mind that she had got its head down, and was.', 59, 'Closed'),
+('ALL RETURNED FROM HIM TO YOU,\"\' said Alice. \'Who\'s making personal remarks now?\' the Hatter went on, \'you see, a dog growls when it\'s pleased. Now I growl when I\'m pleased, and wag my tail when it\'s.', 13, 'New'),
+('Prizes!\' Alice had never had fits, my dear, I think?\' \'I had NOT!\' cried the Mouse, getting up and beg for its dinner, and all that,\' said the Gryphon: \'I went to school in the same solemn tone.', 9, 'New'),
+('Alice had learnt several things of this elegant thimble\'; and, when it grunted again, and that\'s all you know about it, so she set the little door: but, alas! either the locks were too large, or the.', 5, 'In Progress'),
+('Hatter. \'I told you that.\' \'If I\'d been the whiting,\' said the Duchess; \'and most of \'em do.\' \'I don\'t much care where--\' said Alice. \'You must be,\' said the Cat. \'Do you mean by that?\' said the.', 23, 'In Progress'),
+('The Knave of Hearts, carrying the King\'s crown on a branch of a muchness?\' \'Really, now you ask me,\' said Alice, (she had grown so large a house, that she still held the pieces of mushroom in her.', 30, 'In Progress'),
+('King hastily said, and went in. The door led right into it. \'That\'s very important,\' the King added in a large ring, with the other: he came trotting along in a sorrowful tone; \'at least there\'s no.', 71, 'Closed'),
+('The miserable Hatter dropped his teacup and bread-and-butter, and went down to nine inches high. CHAPTER VI. Pig and Pepper For a minute or two, it was good practice to say it out to sea!\" But the.', 82, 'New'),
+('Footman remarked, \'till tomorrow--\' At this the White Rabbit. She was looking at everything that Alice had no reason to be no chance of her little sister\'s dream. The long grass rustled at her as.', 45, 'New'),
+('Dormouse shook its head impatiently, and said, \'That\'s right, Five! Always lay the blame on others!\' \'YOU\'D better not talk!\' said Five. \'I heard the King hastily said, and went down on one of the.', 9, 'New'),
+('Mock Turtle Soup is made from,\' said the Queen, \'and take this child away with me,\' thought Alice, \'or perhaps they won\'t walk the way I want to go! Let me see: that would be like, but it was very.', 47, 'In Progress'),
+('Alice had been running half an hour or so, and giving it something out of his Normans--\" How are you getting on?\' said Alice, in a tone of great dismay, and began to repeat it, but her head to feel.', 36, 'Resolved'),
+('Alice! when she was walking by the officers of the earth. At last the Caterpillar took the least notice of her hedgehog. The hedgehog was engaged in a hurried nervous manner, smiling at everything.', 44, 'In Progress'),
+('And mentioned me to sell you a couple?\' \'You are old,\' said the King. \'When did you ever saw. How she longed to get rather sleepy, and went down on one of them with the clock. For instance, if you.', 100, 'Resolved'),
+('VERY remarkable in that; nor did Alice think it was,\' the March Hare was said to the Dormouse, without considering at all for any of them. \'I\'m sure those are not attending!\' said the Queen.', 54, 'In Progress'),
+('Dormouse was sitting on the song, she kept tossing the baby at her hands, and began:-- \'You are not attending!\' said the Lory. Alice replied very politely, \'if I had it written up somewhere.\' Down.', 13, 'In Progress'),
+('Hatter and the baby with some difficulty, as it was over at last: \'and I do so like that curious song about the right size to do it.\' (And, as you might catch a bat, and that\'s very like having a.', 90, 'Resolved'),
+('Duchess, it had some kind of authority among them, called out, \'First witness!\' The first question of course was, how to begin.\' For, you see, so many different sizes in a tone of great dismay, and.', 86, 'Resolved'),
+('Mouse was speaking, and this was her turn or not. \'Oh, PLEASE mind what you\'re talking about,\' said Alice. \'Off with her friend. When she got back to the table, half hoping that the Mouse to Alice.', 78, 'New'),
+('Seaography: then Drawling--the Drawling-master was an uncomfortably sharp chin. However, she soon made out that part.\' \'Well, at any rate,\' said Alice: \'--where\'s the Duchess?\' \'Hush! Hush!\' said.', 50, 'In Progress'),
+('She hastily put down the hall. After a time there were no tears. \'If you\'re going to say,\' said the Footman. \'That\'s the most curious thing I ever was at in all my life!\' She had already heard her.', 76, 'New'),
+('How puzzling all these strange Adventures of hers would, in the middle, wondering how she would get up and said, \'It WAS a narrow escape!\' said Alice, who always took a minute or two. \'They couldn\'t.', 68, 'Closed'),
+('Gryphon remarked: \'because they lessen from day to such stuff? Be off, or I\'ll kick you down stairs!\' \'That is not said right,\' said the King, with an M?\' said Alice. \'I wonder how many miles I\'ve.', 39, 'Closed'),
+('The moment Alice felt a very hopeful tone though), \'I won\'t indeed!\' said the Gryphon, and all her life. Indeed, she had hoped) a fan and a pair of boots every Christmas.\' And she opened it, and.', 22, 'Closed'),
+('Queen. \'Can you play croquet with the clock. For instance, if you like,\' said the Caterpillar. \'Is that all?\' said Alice, and she walked off, leaving Alice alone with the other end of your nose.', 54, 'Resolved'),
+('I THINK; or is it I can\'t remember,\' said the Duchess, digging her sharp little chin into Alice\'s shoulder as she could, \'If you please, sir--\' The Rabbit started violently, dropped the white kid.', 42, 'Resolved'),
+('Miss, this here ought to eat or drink under the circumstances. There was nothing on it except a tiny golden key, and Alice\'s first thought was that it might injure the brain; But, now that I\'m.', 45, 'Resolved'),
+('Cat\'s head began fading away the moment she appeared on the floor, and a crash of broken glass. \'What a number of changes she had somehow fallen into the Dormouse\'s place, and Alice was not.', 64, 'Closed'),
+('The Mouse gave a sudden leap out of sight; and an old woman--but then--always to have the experiment tried. \'Very true,\' said the Rabbit say, \'A barrowful of WHAT?\' thought Alice to herself, in a.', 46, 'New'),
+('Alice, \'because I\'m not myself, you see.\' \'I don\'t think they play at all for any of them. However, on the slate. \'Herald, read the accusation!\' said the Dormouse; \'--well in.\' This answer so.', 50, 'New'),
+('Footman continued in the pictures of him), while the Dodo had paused as if it had some kind of authority among them, called out, \'First witness!\' The first thing she heard a little quicker. \'What a.', 46, 'In Progress'),
+('But here, to Alice\'s great surprise, the Duchess\'s knee, while plates and dishes crashed around it--once more the shriek of the Queen\'s shrill cries to the whiting,\' said Alice, and tried to curtsey.', 61, 'In Progress'),
+('Mystery,\' the Mock Turtle had just begun to repeat it, but her voice sounded hoarse and strange, and the m--\' But here, to Alice\'s great surprise, the Duchess\'s knee, while plates and dishes crashed.', 47, 'Closed'),
+('So she sat down in a thick wood. \'The first thing I\'ve got to see it trot away quietly into the garden. Then she went on, \'if you only kept on good terms with him, he\'d do almost anything you liked.', 37, 'Resolved'),
+('Alice did not like to go after that into a butterfly, I should like to drop the jar for fear of killing somebody, so managed to swallow a morsel of the baby?\' said the Mock Turtle sang this, very.', 75, 'Closed'),
+('She did it so yet,\' said Alice; \'all I know is, it would be of any use, now,\' thought Alice, and tried to fancy what the name of nearly everything there. \'That\'s the judge,\' she said this, she came.', 91, 'New'),
+('Alice thoughtfully: \'but then--I shouldn\'t be hungry for it, while the Mock Turtle, capering wildly about. \'Change lobsters again!\' yelled the Gryphon whispered in a voice sometimes choked with.', 89, 'Resolved'),
+('I\'m NOT a serpent!\' said Alice timidly. \'Would you tell me,\' said Alice, as she could not taste theirs, and the Gryphon whispered in reply, \'for fear they should forget them before the trial\'s.', 57, 'New'),
+('I only wish it was,\' the March Hare, who had been running half an hour or so, and were quite dry again, the Dodo solemnly, rising to its feet, \'I move that the mouse doesn\'t get out.\" Only I don\'t.', 87, 'Closed'),
+('He looked anxiously at the thought that she could not answer without a great hurry; \'this paper has just been picked up.\' \'What\'s in it?\' said the Pigeon; \'but I know I have ordered\'; and she was.', 72, 'Resolved'),
+('Alice, and she hastily dried her eyes anxiously fixed on it, or at least one of the trees upon her face. \'Wake up, Dormouse!\' And they pinched it on both sides at once. The Dormouse shook itself.', 62, 'Resolved'),
+('One,\' said Alice. \'Oh, don\'t bother ME,\' said the Gryphon, half to itself, \'Oh dear! Oh dear! I shall see it pop down a good deal on where you want to be?\' it asked. \'Oh, I\'m not used to queer.', 76, 'Closed'),
+('RED rose-tree, and we won\'t talk about her and to wonder what Latitude was, or Longitude either, but thought they were lying on their slates, and then sat upon it.) \'I\'m glad they\'ve begun asking.', 11, 'New'),
+('Go on!\' \'I\'m a poor man,\' the Hatter added as an unusually large saucepan flew close by it, and kept doubling itself up and went by without noticing her. Then followed the Knave \'Turn them over!\'.', 79, 'Closed'),
+('Lory and an old woman--but then--always to have wondered at this, but at the door--I do wish they WOULD go with the game,\' the Queen to play with, and oh! ever so many different sizes in a whisper.).', 3, 'Resolved'),
+('March Hare said to herself, \'whenever I eat or drink something or other; but the great question certainly was, what? Alice looked very anxiously into her eyes--and still as she could even make out.', 11, 'Resolved'),
+('That your eye was as much as she went hunting about, and shouting \'Off with his tea spoon at the Cat\'s head with great emphasis, looking hard at Alice the moment he was gone, and the party were.', 88, 'Resolved'),
+('Alice sadly. \'Hand it over afterwards, it occurred to her daughter \'Ah, my dear! I wish you wouldn\'t squeeze so.\' said the Mock Turtle replied; \'and then the Rabbit\'s voice along--\'Catch him, you by.', 89, 'Resolved'),
+('As soon as she could, \'If you can\'t take LESS,\' said the Hatter. He had been all the unjust things--\' when his eye chanced to fall a long hookah, and taking not the smallest notice of her favourite.', 97, 'In Progress'),
+('Hatter replied. \'Of course it was,\' he said. \'Fifteenth,\' said the Gryphon. \'The reason is,\' said the King. \'When did you ever saw. How she longed to change the subject. \'Ten hours the first day,\'.', 34, 'Closed'),
+('The Duchess took no notice of them can explain it,\' said the Mouse heard this, it turned round and round goes the clock in a very respectful tone, but frowning and making quite a crowd of little.', 41, 'Closed'),
+('Suppress him! Pinch him! Off with his nose, and broke off a bit of the e--e--evening, Beautiful, beauti--FUL SOUP!\' \'Chorus again!\' cried the Mouse, who was peeping anxiously into her eyes; and once.', 95, 'Closed'),
+('Just as she could not answer without a great deal of thought, and looked along the sea-shore--\' \'Two lines!\' cried the Mouse, frowning, but very politely: \'Did you say \"What a pity!\"?\' the Rabbit.', 33, 'Resolved'),
+('I\'m not myself, you see.\' \'I don\'t think--\' \'Then you should say \"With what porpoise?\"\' \'Don\'t you mean \"purpose\"?\' said Alice. \'I\'m a--I\'m a--\' \'Well! WHAT are you?\' And then a row of lodging.', 99, 'Resolved'),
+('I breathe\"!\' \'It IS a Caucus-race?\' said Alice; not that she was to find quite a crowd of little pebbles came rattling in at all?\' said the King, \'that only makes the world she was ready to sink.', 53, 'In Progress'),
+('Alice\'s elbow was pressed so closely against her foot, that there was room for YOU, and no room to open her mouth; but she added, \'and the moral of that is, but I can\'t take more.\' \'You mean you.', 76, 'Resolved'),
+('Said cunning old Fury: \"I\'ll try the effect: the next verse,\' the Gryphon as if it had struck her foot! She was looking at the place of the country is, you know. But do cats eat bats? Do cats eat.', 32, 'New'),
+('I grow up, I\'ll write one--but I\'m grown up now,\' she said, as politely as she said to live. \'I\'ve seen hatters before,\' she said to herself. Imagine her surprise, when the Rabbit came near her, she.', 2, 'In Progress'),
+('I suppose Dinah\'ll be sending me on messages next!\' And she began again. \'I should think you\'ll feel it a bit, if you were down here till I\'m somebody else\"--but, oh dear!\' cried Alice, with a.', 52, 'Closed'),
+('Hatter dropped his teacup instead of the garden: the roses growing on it were nine o\'clock in the schoolroom, and though this was his first remark, \'It was a different person then.\' \'Explain all.', 39, 'Closed'),
+('And he got up this morning, but I think it would be wasting our breath.\" \"I\'ll be judge, I\'ll be jury,\" Said cunning old Fury: \"I\'ll try the whole window!\' \'Sure, it does, yer honour: but it\'s an.', 76, 'In Progress'),
+('Who in the air, I\'m afraid, sir\' said Alice, in a large pool all round the court with a kind of thing that would happen: \'\"Miss Alice! Come here directly, and get ready for your interesting story,\'.', 28, 'In Progress'),
+('Majesty!\' the soldiers remaining behind to execute the unfortunate gardeners, who ran to Alice severely. \'What are you getting on now, my dear?\' it continued, turning to the Queen, in a minute.', 93, 'In Progress'),
+('Alice kept her eyes to see it trot away quietly into the garden, where Alice could not answer without a moment\'s pause. The only things in the middle of one! There ought to be listening, so she went.', 1, 'In Progress'),
+('Mary Ann, and be turned out of the e--e--evening, Beautiful, beauti--FUL SOUP!\' \'Chorus again!\' cried the Mouse, frowning, but very politely: \'Did you speak?\' \'Not I!\' he replied. \'We quarrelled.', 11, 'Closed'),
+('Alice thought she might find another key on it, or at any rate: go and take it away!\' There was a body to cut it off from: that he had to kneel down on one knee as he found it made Alice quite.', 4, 'New'),
+('Alice asked. The Hatter looked at Alice. \'It goes on, you know,\' said Alice indignantly, and she sat down and began to say when I got up this morning, but I hadn\'t begun my tea--not above a week or.', 83, 'Resolved'),
+('Alice, \'because I\'m not myself, you see.\' \'I don\'t think they play at all a pity. I said \"What for?\"\' \'She boxed the Queen\'s voice in the book,\' said the last few minutes she heard a little now and.', 82, 'New'),
+('Alice thought to herself. Imagine her surprise, when the Rabbit just under the hedge. In another minute the whole party swam to the Duchess: \'what a clear way you can;--but I must have been was not.', 72, 'New'),
+('Alice felt so desperate that she did so, very carefully, with one finger; and the procession came opposite to Alice, and tried to get into her face. \'Very,\' said Alice: \'allow me to introduce it.\'.', 13, 'Closed'),
+('Then she went on, \'What\'s your name, child?\' \'My name is Alice, so please your Majesty?\' he asked. \'Begin at the end of the miserable Mock Turtle. So she swallowed one of the moment she quite forgot.', 67, 'Resolved'),
+('Cheshire Cat: now I shall have some fun now!\' thought Alice. \'Now we shall have to fly; and the fan, and skurried away into the garden at once; but, alas for poor Alice! when she had somehow fallen.', 75, 'New'),
+('There was not quite know what \"it\" means well enough, when I got up very carefully, with one of them at last, and managed to put down yet, before the trial\'s over!\' thought Alice. \'I\'m glad they\'ve.', 38, 'New'),
+('On various pretexts they all spoke at once, while all the jurymen are back in a deep, hollow tone: \'sit down, both of you, and don\'t speak a word till I\'ve finished.\' So they began running when they.', 50, 'Resolved'),
+('Now, if you were or might have been a holiday?\' \'Of course you know I\'m mad?\' said Alice. \'Well, then,\' the Gryphon added \'Come, let\'s hear some of YOUR adventures.\' \'I could tell you just now what.', 82, 'Resolved'),
+('The adventures first,\' said the Mock Turtle. Alice was soon left alone. \'I wish I hadn\'t to bring tears into her face. \'Very,\' said Alice: \'I don\'t much care where--\' said Alice. \'Why, there they.', 55, 'Closed')
+;
+
+INSERT INTO Feedbacks (viewing_id, comment, rating) VALUES 
+(158, 'Sunt maxime neque unde quo nihil consequatur eum. Earum et porro sint aut praesentium. Quaerat dolores est recusandae id non. Aut aut repudiandae perspiciatis qui.', 2),
+(45, 'Voluptatum molestias eius voluptas asperiores. Voluptatem odio delectus voluptas officiis. Unde aut ipsam enim at consectetur minus.', 1),
+(212, 'Est veniam ipsum dolor in. Et tenetur nihil suscipit laborum assumenda totam eum. Eum maxime sit sunt. Perspiciatis molestiae at architecto voluptatem aliquam debitis.', 1),
+(67, 'Nisi esse sed deleniti corrupti magni expedita similique. Ut optio unde aut aliquam quas reiciendis. Voluptatum qui ut praesentium omnis et. Ut quas dolor et nobis amet nesciunt voluptatem.', 1),
+(44, 'Eos labore eum enim. Porro minus voluptatem voluptate nihil. Fuga ut quae eaque maxime.', 3),
+(15, 'Dolores aut possimus iusto qui ea. Eius voluptatem et odio quasi qui. Tempore vitae minima odit omnis sed. Aliquam et repudiandae aliquam delectus.', 5),
+(165, 'Hic possimus non perferendis et ut. Sit et officiis enim et. Nam minus neque labore voluptate rerum.', 2),
+(33, 'Unde voluptatem nisi excepturi voluptatum. Error facere atque sed accusamus id. Eum sed quod velit vitae.', 3),
+(152, 'Quos sapiente fugit qui esse facere ut pariatur. Et reiciendis mollitia ut. Iste molestiae similique voluptatem ducimus. Nihil ut quia qui.', 4),
+(56, 'Doloremque quod officia totam quo voluptatum. Maxime mollitia sit error dignissimos omnis enim. Nihil corrupti necessitatibus fuga iste aut est suscipit. Quae ut labore dolores.', 4),
+(172, 'Esse eum id dolorum omnis eligendi. Cumque veritatis ut sed quis nostrum culpa et. Sed sit occaecati repudiandae laboriosam temporibus consequatur sunt.', 1),
+(155, 'Voluptatem necessitatibus aliquid tempore sit. Harum aliquid voluptatum blanditiis aut deleniti et dolor. Reiciendis qui aut explicabo accusamus nihil aut earum sed.', 5),
+(36, 'Repellat placeat aliquid ea. Rem laudantium a eveniet est temporibus. Magni aspernatur temporibus est facere.', 2),
+(36, 'Et magnam sunt cupiditate eum soluta incidunt. Aut sapiente sit ratione asperiores alias esse. Blanditiis corrupti vero et esse provident. Ut modi porro omnis repellendus rerum qui.', 1),
+(180, 'Quisquam sunt maiores in. Incidunt nostrum esse recusandae dicta. Et voluptatum vel eum.', 5),
+(180, 'Libero magnam ut dolor. Fugiat hic nihil accusamus itaque sit commodi voluptatem distinctio. Quae ex quos quis explicabo.', 4),
+(113, 'Quia debitis et omnis molestias deleniti. Cumque maxime et hic eius consequuntur earum velit. Ullam nihil harum dolorem a. Non doloremque iure dolorum ullam quas suscipit molestiae.', 3),
+(175, 'Qui facere rerum incidunt vel quos corporis. Consequatur veritatis aut consequatur ut. Sunt alias et veritatis enim qui iure voluptates.', 2),
+(39, 'Et cupiditate deleniti qui minus non enim ut. Quis deserunt perspiciatis aperiam. Voluptate consequatur ratione porro voluptate ea molestiae.', 2),
+(119, 'Inventore rem quo aut velit iure ea dolorum. Sint magni non incidunt delectus sunt.', 4),
+(28, 'Non minus vel quo. Sint rerum voluptas qui nemo nesciunt nemo officiis.', 4),
+(238, 'Recusandae assumenda et error eius. Quaerat tempore incidunt enim tenetur aut molestiae incidunt.', 4),
+(38, 'Dolorem voluptatibus asperiores consequuntur tempora quas id. Enim dolor corporis sit nihil aut. Dolore accusamus repellendus ullam unde.', 4),
+(36, 'Totam id quasi modi ut nisi et nesciunt qui. Maiores suscipit ut cumque nisi. Blanditiis enim odio sed beatae dolorem. Maxime ratione maxime debitis id.', 5),
+(268, 'Voluptate hic earum reprehenderit veniam minus ratione laborum. Officia occaecati iste perspiciatis dolores consequatur eum ipsum sit. Consectetur qui accusamus velit ex hic et fuga.', 5),
+(118, 'Dolores officia et dicta accusantium libero cumque architecto. Similique earum iste aut aut voluptatum unde. Qui qui soluta velit accusantium. Et aut fugiat qui fugit.', 5),
+(95, 'Ducimus nobis dolor qui est voluptas est excepturi odio. Quo consequatur velit veniam dolorum aut eum quidem. Quibusdam officia quia temporibus sequi aut.', 5),
+(27, 'Porro dolores eos asperiores impedit magni deleniti. Est molestiae voluptas qui ipsa nemo sunt accusantium. Praesentium ullam nemo sed qui minima. Quas sint ad est sint tempora.', 5),
+(260, 'Vel qui aspernatur est molestias quo voluptatum ut non. Eum quibusdam illum et in reprehenderit nulla. Debitis dolores qui est.', 3),
+(65, 'Optio architecto sequi occaecati excepturi facilis atque. Aperiam quia magni placeat delectus earum. Quia quos omnis velit enim. Odio consequatur omnis voluptas.', 1),
+(103, 'Omnis nulla laboriosam at et soluta. Reprehenderit nesciunt ipsa tenetur consequatur eaque. Id explicabo et molestiae aut illo sed excepturi.', 3),
+(270, 'Possimus ad rerum necessitatibus sed explicabo earum voluptas. Nemo est esse sit. Accusantium saepe sunt est eaque. Ducimus debitis sed suscipit ut.', 4),
+(92, 'Dignissimos nam sint autem asperiores ipsam. Modi est eveniet architecto facere animi. Deserunt omnis cum maiores saepe.', 1),
+(273, 'Modi facilis et qui dicta exercitationem quasi adipisci nisi. Sit nam vitae et quas eaque eum. Provident est repellat error dolores. Minima iusto omnis suscipit debitis.', 3),
+(28, 'Beatae optio ea quidem nobis quisquam est esse voluptate. Blanditiis suscipit quidem est sunt. Vel porro omnis unde fuga. Laborum voluptate qui velit porro fugiat quis dolorum minus.', 1),
+(25, 'Libero porro similique enim maxime. Et natus voluptatem nihil. Nemo delectus atque non omnis occaecati enim accusantium neque.', 5),
+(37, 'Id numquam facere voluptatum vel ullam ipsam. Qui velit est ex. Eum qui ea eos dolores eos esse.', 4),
+(43, 'Iure facere quis quasi nisi minus quas. Veritatis sed eum id excepturi odit minus. Nulla quo voluptas illo ut. Soluta consequatur molestiae error atque quibusdam vel qui.', 2),
+(199, 'Adipisci ducimus minima natus quo. Dolore praesentium laboriosam ut. Nulla nam ut nostrum veritatis.', 2),
+(289, 'Ex molestias et odio sunt. Qui blanditiis molestias natus quam est et.', 2),
+(170, 'Amet odit delectus iure eum numquam officiis. Blanditiis quisquam itaque fugiat rerum. Facilis libero iste eligendi incidunt. Dolorum nesciunt molestias et officia ullam.', 1),
+(154, 'Et et aliquid aut sunt cumque qui. Facere eius expedita sunt aspernatur tempore et quae. Aut dolores et facilis.', 4),
+(245, 'Necessitatibus quibusdam veritatis cumque. Qui voluptatem eligendi id velit doloremque dolores earum.', 1),
+(204, 'Quo voluptas amet tempore dolorum atque autem sit rerum. Placeat et officiis eius sint. Doloremque et asperiores illo aut quaerat consequatur laborum. Quasi numquam distinctio praesentium.', 1),
+(153, 'Reiciendis aspernatur enim hic quod exercitationem. Architecto consectetur sapiente aut at. Est et sunt nihil non sed quae. Sit et quis quia culpa et recusandae asperiores.', 2),
+(61, 'Mollitia enim molestiae tempora aut aut provident. Ipsa porro excepturi ratione sed. Distinctio et vero omnis cupiditate.', 4),
+(136, 'Rerum sapiente numquam aut sequi odit. Distinctio est est adipisci voluptatem id. Voluptatem nihil quia laborum suscipit quisquam tempora qui. Est quis quo perspiciatis.', 1),
+(75, 'Error aliquid voluptate quod aperiam id et molestiae aut. Placeat qui ut distinctio labore.', 1),
+(190, 'Sunt quo ratione voluptates quia illum. Odit debitis sunt velit ut delectus doloribus enim. Dolor quasi iusto laborum et ut veritatis voluptatem qui.', 1),
+(116, 'Quia asperiores odit occaecati nesciunt minus excepturi illo. Rerum placeat ab quaerat aspernatur tenetur.', 2),
+(287, 'Suscipit aut laudantium aliquid omnis. Et ullam nostrum ipsa reprehenderit. Rerum voluptas modi et dolores blanditiis. Non sint commodi provident.', 3),
+(173, 'Voluptas qui maiores omnis quis temporibus ab rerum omnis. Iusto sapiente architecto qui occaecati cumque voluptatum. Ea impedit et tenetur earum delectus animi labore occaecati.', 3),
+(227, 'Molestias quasi ducimus cupiditate est nulla fuga deleniti. Eum inventore natus expedita aut. Fugiat ducimus deleniti et.', 5),
+(66, 'Quisquam nobis delectus error rerum quia velit et. Id sint tenetur minima dolorum. Magnam consequuntur temporibus eius maiores iure quisquam.', 1),
+(193, 'Voluptas natus et harum aperiam odit modi. Modi aut nihil suscipit consequatur est veniam. Veniam facere a quidem saepe.', 1),
+(271, 'Qui eveniet qui fugit sit ad. Est voluptatum id aut. Ducimus cumque reprehenderit velit quaerat necessitatibus quasi. Eos illum voluptas amet nemo rerum.', 3),
+(115, 'Eos doloribus inventore necessitatibus possimus. Reprehenderit ipsa quibusdam veniam asperiores labore laborum dolor blanditiis.', 5),
+(90, 'Totam deserunt sint voluptatibus. Maiores ea vero voluptatem quaerat voluptatum tenetur aut. Placeat non laborum deserunt qui et et eius et. Ex maxime qui nihil ducimus non voluptas.', 4),
+(12, 'Aut ut odit rerum beatae. Aperiam qui error expedita est sit. Fugit optio aspernatur quaerat. Quis est ex cum sint. Consequatur sit ratione fugiat et. Quibusdam itaque porro autem.', 3),
+(8, 'Eius voluptatem quos debitis iste nisi quisquam corporis. Non sit cupiditate tempora reprehenderit sed deserunt. Voluptatibus quis vel rerum quia veritatis dolorum laudantium.', 3),
+(142, 'Cumque sequi omnis iure aut libero est consequatur. Cumque voluptatibus inventore sunt nesciunt velit.', 3),
+(92, 'Veritatis dolores architecto molestias suscipit aliquam. Voluptatibus amet atque temporibus natus.', 4),
+(189, 'Est cumque rerum voluptas incidunt et quo et. Autem repellendus omnis facere at alias. Repellendus omnis culpa earum modi eligendi. Aspernatur doloribus qui odio provident quam saepe sit.', 2),
+(281, 'Tenetur ex quasi accusantium assumenda autem ipsa qui et. Esse voluptatem iste nam dolor aut. Eaque ut illo quia.', 4),
+(113, 'Voluptas ut enim sunt. Eaque ratione sit omnis minus. Magni cumque nostrum debitis rerum saepe.', 2),
+(16, 'Omnis quo recusandae quaerat ut maxime assumenda. Quaerat temporibus dicta labore officia odio. Corrupti harum sunt dolores molestias porro et incidunt quos.', 2),
+(138, 'Facilis ab sapiente amet. Sint sunt et aut est. Repudiandae et modi error culpa quis reiciendis. Deserunt ut quia recusandae in doloribus.', 5),
+(116, 'Quas architecto odit eveniet aliquid dicta deserunt et. Tempore dicta non nam saepe consequatur voluptates. Sed a neque ut omnis. Provident quia aliquid quaerat est omnis reiciendis.', 5),
+(79, 'Quisquam enim quia rerum aut nulla veniam. A rerum aut ad laudantium pariatur suscipit quibusdam. Voluptas repellat odio est perferendis.', 5),
+(206, 'Repudiandae quia non enim et sed libero harum. Aspernatur repellendus facilis esse error sint sequi. Nesciunt quia et culpa in numquam ut.', 2),
+(277, 'Sit mollitia corrupti ut magnam dicta asperiores vel. Itaque nostrum adipisci et pariatur aut voluptatibus aliquid. Accusamus soluta nisi odio dolorem dolor. Laborum ut est delectus.', 5),
+(112, 'Vitae repudiandae a nulla et. Perspiciatis enim temporibus placeat tenetur nam nostrum. Eum nobis fuga quod perspiciatis. Necessitatibus consequuntur ut accusantium inventore ut numquam saepe.', 3),
+(188, 'Ipsa a dolores ut consequatur harum magni facere. Quo error hic voluptate soluta totam tempora aut sapiente. Est est hic consequuntur porro mollitia ratione.', 5),
+(3, 'Recusandae quis nam perferendis maiores sunt. Quam ea sunt labore consequatur temporibus quos. Non at repellendus mollitia libero.', 5),
+(33, 'Ea repellendus illo atque quis. Distinctio earum eum ut provident delectus. Quo est saepe error. Distinctio voluptas molestiae in harum doloribus totam fuga. Debitis incidunt optio tempora ratione.', 1),
+(243, 'Eveniet non nihil adipisci fugiat laborum rerum. Error quia sed saepe officiis nesciunt voluptatem. Voluptatem ducimus quasi vel ea non ut.', 5),
+(145, 'Est repudiandae pariatur earum cum qui ipsam sed. Sed dolore magnam in.', 1),
+(168, 'Et eum odio rem odit vitae sed. Id a incidunt eos. At eum dolores vel enim.', 5),
+(181, 'Dolorem veritatis blanditiis quas aut dolorum porro. Alias alias soluta qui omnis. Vero assumenda sunt occaecati voluptas placeat quo magni.', 1),
+(38, 'Et est vero molestiae. Voluptatem dolore velit tempore culpa qui. Facere corrupti eum est ducimus deleniti corporis a. Similique distinctio iste eius sunt.', 1),
+(294, 'Quia itaque sit corporis repellat in nobis. Consequuntur accusamus explicabo et. Reprehenderit dignissimos ducimus maxime deleniti facilis. Nemo id quisquam molestiae rerum.', 1),
+(6, 'Et perspiciatis maxime exercitationem maxime voluptas et suscipit deserunt. Perspiciatis autem animi quaerat. Explicabo aut et quas iure. Id optio et natus tempora quo necessitatibus atque nulla.', 4),
+(235, 'Accusantium corporis excepturi molestiae esse enim soluta. Omnis facere aut qui. Et consequatur sunt ipsum repellat.', 3),
+(200, 'Illo et facilis illo ex quaerat quasi. Doloremque aperiam aut et. Maiores delectus dolorem quisquam. Quia iste voluptatibus sint dolorem.', 2),
+(151, 'Et voluptatem deserunt laudantium vitae. Et consequatur explicabo natus qui. Quibusdam ex ut aperiam sapiente aperiam qui possimus. Ut beatae officiis qui nihil enim dolorum.', 3),
+(60, 'Natus est odio asperiores numquam fugit voluptatem minus. In dignissimos incidunt voluptatem perspiciatis modi. At aut occaecati laborum ut impedit consequatur dolore.', 1),
+(258, 'Totam optio id aspernatur. Et aut totam ullam dolorem sit praesentium rem. Eum illo ut tenetur.', 5),
+(190, 'Illo ab quas est est nihil libero. Enim ex architecto unde.', 5),
+(41, 'Quo tenetur voluptatem quidem consequatur. Ipsa ex vero aut non officia ea. Odit alias et atque harum id similique.', 3),
+(286, 'Officia voluptatem eveniet nobis qui. Nisi odio et aut et dolor non. Atque est eum modi adipisci aspernatur dolore id. Voluptate velit aut et aut.', 4),
+(294, 'Omnis deleniti cum sit. Amet nihil accusamus esse non explicabo rerum magnam. Eius praesentium non nesciunt qui nihil consequatur. Molestias est corrupti molestiae repellendus rerum.', 2),
+(53, 'Dolore sequi aspernatur est alias deserunt quis. Veritatis dolorum modi dolores cupiditate ab. In blanditiis quibusdam ad voluptatem et quos blanditiis. Quidem quidem incidunt aliquam nam.', 1),
+(173, 'Minima voluptatum tempore temporibus qui natus iste repudiandae. Nihil et libero in voluptas. In corporis consequatur sit quidem. Culpa natus est molestias velit aliquid.', 2),
+(57, 'Consequuntur ut odit eum nulla voluptatibus. Facilis hic velit adipisci. Libero inventore facere ullam enim aspernatur et aperiam. Aliquam sit sunt possimus quis.', 5),
+(240, 'Ipsum mollitia unde labore distinctio fugiat dolore. Commodi sit quaerat inventore voluptas velit magnam veniam quibusdam. Aut vel temporibus accusantium et ab provident.', 3),
+(264, 'Facilis maiores ut non ratione autem voluptatem. Rerum quis nemo voluptatem esse sequi sint. Optio ut animi voluptas debitis illo autem.', 2),
+(180, 'Autem modi illo alias explicabo dolor. Rem tenetur necessitatibus laudantium voluptatibus illo enim. Facilis ipsam praesentium dignissimos id temporibus eligendi culpa quas.', 2),
+(127, 'Delectus corrupti nostrum aliquam sint ex aut sunt. Odit nisi commodi quidem aliquam. Pariatur omnis asperiores suscipit accusantium dolores. Recusandae iure autem non id ducimus ex accusantium.', 4),
+(79, 'Quam distinctio sit sequi vitae repudiandae asperiores blanditiis. Quis placeat enim aut. Autem dolorem vel dolores. Autem provident assumenda ut occaecati voluptatem.', 4),
+(177, 'Voluptatum quisquam commodi sunt consequuntur. Dicta ullam ut reiciendis possimus voluptas eaque exercitationem. Aut iure at ut ipsum alias a. Libero iste id placeat.', 5),
+(296, 'Expedita pariatur doloribus eligendi et. Qui quo dolores veritatis id enim facilis eum voluptatem. Dolores perferendis consequatur dolores modi atque eaque nam. Iusto ea hic quis ex fugiat vel nisi.', 5),
+(41, 'Porro sed cupiditate consectetur voluptas minus ipsum distinctio. Laudantium et quo libero iure qui. Consequatur ut soluta sunt et provident eveniet.', 5),
+(13, 'Excepturi nihil veniam omnis iure. Sint consequatur corporis fugiat qui omnis est. Consequuntur temporibus aut provident ullam velit. Totam rem molestiae et fugiat voluptate.', 1),
+(103, 'Ullam vero accusantium vitae facilis eius. Qui sit qui voluptatibus iste repellat ipsam aliquid cumque. Et id atque sit eveniet.', 1),
+(205, 'Consequatur accusamus eius cumque ipsam alias a. Nam perspiciatis inventore non ut.', 2),
+(293, 'Labore repellendus minima suscipit iusto. Saepe consectetur temporibus voluptatem occaecati earum. Ut ipsa ullam laudantium. Non sequi ut ipsum et quae porro dolore.', 1),
+(28, 'Consequatur totam in laudantium facere deserunt incidunt ut doloribus. Voluptates rerum sit optio in. Consequatur et dolor mollitia soluta.', 5),
+(237, 'Distinctio architecto quibusdam natus quae pariatur hic. Et ut velit consequatur saepe et. Aliquid dolores voluptas sint similique non porro. Quia aut dolorem quas dolor ea nam.', 3),
+(53, 'Magnam dolorum et vitae quasi. Beatae id velit accusantium est. Explicabo natus dolore sit nemo fugiat.', 1),
+(13, 'Et consequatur atque qui dolorem autem unde esse. Quas omnis veritatis est neque qui voluptatem. Alias dolorem aspernatur quis eligendi voluptatem velit nihil.', 1),
+(126, 'Nihil sit culpa odio itaque. Voluptatem ea in dignissimos voluptas quo eum. Est odit odio itaque porro voluptatem.', 2),
+(102, 'Quos amet cumque dolores blanditiis perspiciatis et cumque. Labore quam aut eligendi qui in velit. Ad eius fugit iusto et dolorem qui. Et quidem animi ut sint qui ex amet. Fugit ex quia et.', 4),
+(186, 'Possimus harum amet cumque dolorem. Excepturi saepe velit quod delectus. Exercitationem maiores officiis itaque.', 3),
+(67, 'Omnis repellendus velit reprehenderit molestiae qui. Labore asperiores reprehenderit voluptatibus.', 1),
+(54, 'Et dicta nihil non ad et. Sit id architecto consequatur adipisci. Quia et omnis mollitia maxime hic dolor.', 4),
+(39, 'Natus voluptas dignissimos illum. Aspernatur accusamus rerum ea sint sunt. Exercitationem minus rerum repudiandae harum adipisci. Aut quae aspernatur nisi tempore quia.', 2),
+(89, 'Quo et eos placeat explicabo. Sint natus ipsa molestiae qui enim dolor. Et iusto explicabo labore magnam repellendus voluptatem dolorem. Voluptas animi enim aperiam excepturi ut laudantium.', 2),
+(11, 'Rerum occaecati repellat laboriosam dolor dicta. Qui ut molestiae sequi nihil iure natus dolorem. At dolores ipsam accusantium praesentium et quos.', 1),
+(256, 'Delectus voluptatum in in hic dicta in mollitia. Nesciunt non eligendi atque eum maxime et sint consequuntur. Libero incidunt aut eum sit. Vitae error enim enim voluptatem dolor velit.', 2),
+(6, 'Iusto est at nisi dolores facilis reiciendis. Cumque et voluptates quo expedita fugiat nam. Earum suscipit quo molestiae voluptatem. Non sit sed iste sit molestias.', 1),
+(96, 'Doloremque libero soluta ut nihil. Aut autem ullam quia deleniti aut. Quae a et libero maxime nihil molestiae. Nulla et nulla ratione. Repellendus ratione vitae hic sunt assumenda.', 5),
+(25, 'Saepe voluptatem cupiditate animi culpa libero aut iure ea. Ullam unde assumenda nisi sint sed ipsum. Quia libero officiis pariatur qui.', 1),
+(58, 'Aspernatur quia et vel. Necessitatibus id et ut vel est natus. Minima id ullam unde amet eius. Qui odio laboriosam est facilis quos mollitia.', 3),
+(268, 'Enim hic suscipit maxime tenetur dolores odit aut. Optio blanditiis et assumenda et accusamus. Accusamus aliquid et iste amet ad fugit ea. Rerum voluptatem nulla nulla rerum ut veniam debitis.', 5),
+(63, 'Exercitationem non aut et ut officia. Rerum accusantium eaque corporis aliquid facere. Id provident nemo aut cumque ut provident at numquam. Expedita qui id aut quisquam.', 3),
+(191, 'Et ut libero molestiae qui repudiandae id. Id voluptas molestiae ducimus incidunt adipisci amet. Dolorem dolorem deleniti dolorem. Reprehenderit maiores repellat ipsam assumenda.', 5),
+(42, 'Quibusdam et et id ut. Ipsa ullam repudiandae repellat inventore. Veniam velit commodi ut sunt hic ea. Est aut ut aut veritatis.', 5),
+(223, 'Aut nostrum reprehenderit ut nemo et dolorum sint. Nulla quae dignissimos placeat quo. Exercitationem vel vitae vero enim a incidunt.', 5),
+(118, 'Quia adipisci dolorum cupiditate excepturi omnis. Sunt molestiae saepe velit incidunt quia. Rerum dolores doloremque consectetur sunt natus consequatur temporibus.', 1),
+(264, 'Blanditiis et id voluptate. Hic qui ut voluptatem. Recusandae vel architecto possimus repellendus velit. Aperiam et vitae nihil voluptatem aut.', 2),
+(123, 'Quos ullam in et enim dolor quibusdam voluptatem. Ut corporis fugit sit. Sapiente velit libero et vero sunt voluptatem voluptates consectetur. Fugit aut cupiditate accusantium mollitia nihil.', 1),
+(82, 'Laudantium est doloribus eveniet et quisquam sed ratione. Recusandae quia qui qui sit natus et ut blanditiis. Doloremque a tenetur nihil. Ea dolor fuga qui impedit quo.', 5),
+(7, 'Officia consequatur non aut fugiat voluptatem labore natus. Cum qui sapiente quod odit. Voluptatem sit tenetur praesentium occaecati adipisci.', 4),
+(34, 'Reiciendis qui reiciendis dolorem est recusandae excepturi. Vel inventore quasi unde deleniti necessitatibus sapiente. Veniam asperiores incidunt illo. Quisquam sint et quidem tempore odit.', 3),
+(161, 'Et a maxime maiores tempore quod quasi nihil. Molestiae voluptas soluta sit omnis praesentium. Non incidunt culpa tempora aspernatur adipisci nisi. Cum et voluptatem repellat tenetur tempore a.', 5),
+(157, 'Nam qui placeat repudiandae et ad voluptatem assumenda. Perspiciatis modi fugiat deserunt temporibus. Modi nesciunt aliquam beatae quis.', 3),
+(206, 'Illo numquam vel dolores corrupti consequatur ab libero. Dicta excepturi ea voluptate ab et nobis. Maiores assumenda qui rerum optio. Tempora quia aut aut eligendi dolores quia sit rerum.', 4),
+(272, 'Vitae magnam quae non quae sequi dolorum. Officia facere voluptate quas voluptatum impedit. Velit in aut doloremque non unde eum delectus quo.', 2),
+(53, 'Repellat numquam libero sed qui illum laboriosam. Sed fugit et nulla. Est quia reiciendis recusandae ex nesciunt. Voluptatum quidem quod dicta aut aut. Voluptas mollitia omnis cum laudantium et est.', 4),
+(220, 'Atque illum voluptates facilis molestiae voluptatum blanditiis. Sed et architecto quo ducimus nobis rerum molestias. Sit delectus maiores eos qui.', 4),
+(207, 'Commodi reiciendis quod facilis corrupti sint. Vero alias beatae voluptate assumenda eaque qui cumque. Non dolorum quibusdam eos quia. Rem quo accusantium sunt.', 4),
+(4, 'Deleniti quam consequatur error quasi ut. Enim velit reiciendis laborum. Et eos error aut saepe quaerat corporis.', 3),
+(200, 'Vel cupiditate quae omnis asperiores omnis quisquam voluptatibus. Hic ea aliquid accusamus. Molestias molestiae autem voluptatem. Ut dolorum repellat excepturi ullam non sunt sint at.', 4),
+(86, 'Ex sapiente laborum blanditiis fugiat. Dolor expedita sit neque architecto aliquid eum accusamus beatae. Quos veniam ex nihil non sit dolorem eum. Explicabo voluptates eveniet sit natus aut.', 2),
+(265, 'Dignissimos maxime totam voluptas fugiat placeat voluptatem ipsum. Fugiat omnis dicta temporibus magnam sit. Voluptatem autem iusto aliquam ut ut voluptatem.', 2),
+(102, 'Nostrum voluptatum soluta laborum facere aliquid eum. Animi quam facilis culpa et consequatur. Cum molestias et mollitia rem. Ipsam quo eaque ipsum distinctio illum.', 3),
+(151, 'Provident et corrupti recusandae dolorum quos alias. Voluptas assumenda veniam architecto debitis ullam. Ut suscipit id eos sunt nostrum. Quidem qui odio est cumque.', 3),
+(27, 'Velit laboriosam id similique hic dolorem laborum eos. Saepe nihil minima pariatur omnis et sunt vero. Qui alias ut officiis et debitis. Voluptatem perspiciatis doloribus nulla aut.', 2),
+(166, 'Neque est sed ex nihil eius ut. Assumenda inventore accusantium nulla non molestiae voluptas maiores. Officia error sed sunt qui molestiae labore qui.', 5),
+(37, 'Dolor eaque et sit eos laborum velit consequatur. Odit maiores nisi cum. Veniam consequatur doloremque assumenda beatae corporis nostrum vel est.', 3),
+(291, 'Est architecto ea autem dolorum ducimus et. Aut laboriosam est natus hic sit. Eligendi consectetur nesciunt voluptatem qui ab enim. Id facere inventore sequi.', 2),
+(121, 'Ratione et dolor ipsam voluptatem nemo. Vitae asperiores quaerat et quos dicta. Perspiciatis suscipit animi velit ipsa. Perferendis praesentium unde ut labore ut molestias.', 4),
+(209, 'Culpa beatae porro necessitatibus qui autem rem. Atque ab veritatis est et optio qui facilis vel. Dolores ut vel nihil. A officia sint quaerat earum.', 1),
+(90, 'Nisi et distinctio architecto dolorum beatae ut optio. Perspiciatis nulla officiis non accusantium at.', 3),
+(32, 'Veniam quia et deserunt eos delectus aspernatur. Dolores voluptatum adipisci quia ea quae quos cumque. Vel aut nisi cumque excepturi quidem. Consequuntur et at qui velit reiciendis quae ducimus.', 5),
+(217, 'At autem ex quasi sunt. Pariatur itaque ex esse animi. Nihil quisquam quasi velit. Magni vitae ut consequatur autem. Debitis et dolore architecto nobis ipsa harum accusantium.', 4),
+(267, 'Ut maiores delectus ut quia eaque. Labore eum aperiam maxime reiciendis molestiae a. Ab autem error assumenda est.', 1),
+(23, 'Autem eum quidem et quod aut. Ut dolorem modi sunt eum voluptas. Officia ipsa cumque sit illum corporis. In ipsum est non voluptates.', 1),
+(155, 'Aut aperiam provident esse vel sed. Molestiae laborum illum et et quis itaque. Inventore asperiores nesciunt ratione assumenda eos omnis.', 2),
+(203, 'Excepturi possimus dolore inventore animi. Voluptatem rem libero sunt est ipsa.', 3),
+(232, 'Aspernatur deserunt deleniti voluptates est necessitatibus ducimus. Ut et quidem porro cum. Et qui delectus quisquam ut sapiente qui.', 3),
+(120, 'Temporibus voluptas rerum vitae ut beatae. Delectus perferendis iure sint.', 2),
+(58, 'Sed expedita esse fugit error. Enim aliquam debitis eveniet blanditiis quidem non. Et modi rem sed ipsa soluta et dolorum. Ipsa labore est est.', 3),
+(267, 'Odit odio illo dolorem voluptatum. Dolorem commodi minus magni possimus. A ea et aspernatur quos dolorem aliquid et. Cumque voluptatum est illum.', 3),
+(11, 'Rerum et tenetur est occaecati eos qui iusto. Aut alias voluptates pariatur earum. Dolores debitis quasi architecto impedit consectetur quam dicta. Culpa eaque adipisci neque qui aut id eligendi.', 1),
+(44, 'Pariatur suscipit soluta dolorum placeat et impedit sed nemo. Itaque qui blanditiis et aut. Velit libero consequatur in voluptatem nostrum fugiat enim.', 3),
+(112, 'Quia iste autem iusto nesciunt. Non ipsum magnam eius quia est laboriosam dolor quia. Iusto consequatur facere ipsa deserunt.', 3),
+(247, 'Quos iure qui non odit et dicta reprehenderit. Rerum quibusdam voluptas non qui. Repellat et consequatur pariatur dolores numquam quis.', 4),
+(131, 'Autem eos quasi inventore at aut maxime cum libero. Eveniet ut cumque nam nostrum aut debitis. Quis at doloribus sint ut.', 1),
+(268, 'Porro a aut tenetur repellendus odio illum. Provident voluptates recusandae veniam in qui nesciunt cum qui. Quae iure quasi numquam. Dolores ipsam dolores distinctio quia numquam alias impedit.', 2),
+(227, 'Quas placeat omnis a omnis eum fugiat. Placeat eos id voluptate. Reiciendis sed eveniet exercitationem. Et repellat odit perferendis.', 5),
+(173, 'Pariatur ut error odio accusamus distinctio reiciendis. Aut et et ratione qui. Omnis ab hic amet commodi. Quia cumque illo debitis magni et explicabo. Sint dicta ipsa earum sunt.', 3),
+(264, 'Est quia alias deserunt possimus quia. Commodi dolor et fugiat eos et. Quas laborum rem illum qui perspiciatis magnam.', 2),
+(260, 'Alias iste eius eos fugiat. Incidunt omnis libero neque enim earum. Expedita ut modi dicta. Harum iusto optio numquam et qui provident sunt id.', 5),
+(113, 'Minus quia id quia eum accusamus minima. Quia quia doloremque facilis eius earum. Vel magnam sunt est magnam eum quia. Veniam quisquam laudantium amet voluptate rerum ducimus omnis suscipit.', 1),
+(273, 'Aut iste asperiores eos velit. Quisquam ut libero incidunt qui voluptatibus cumque. Minus officia recusandae eum quas. Eius incidunt non veniam natus omnis et nihil dignissimos.', 3),
+(94, 'Aut ipsum rerum aut ipsam pariatur commodi omnis. Dignissimos necessitatibus animi in excepturi veritatis. Consequuntur quidem eaque minima. Maxime voluptatibus sequi veniam tempore.', 4),
+(4, 'Officia ut eum assumenda in aliquam maiores. Distinctio nostrum explicabo esse sit eos. Fugit id quia tempora rerum. Rerum modi quas dolore excepturi et maiores.', 5),
+(17, 'Repudiandae sint aut porro quos corporis beatae. Quod fuga recusandae ut temporibus. Quod esse quam et dolor quia commodi enim. Inventore culpa numquam et occaecati magni omnis fugit.', 1),
+(293, 'Autem recusandae nihil nesciunt qui. Eos consequatur aliquid quis enim excepturi. Nostrum et quae facere atque. Maiores optio quos esse ullam impedit.', 2),
+(246, 'Et ratione corrupti aliquid sit quo dolorem aliquid. Enim praesentium et aliquid qui.', 4),
+(73, 'Facilis ullam illo aut rerum at voluptatibus provident perspiciatis. Ut molestiae dicta nihil. Quia eos voluptas nisi ut sit et.', 5),
+(105, 'Odio veritatis saepe tempora laboriosam. Quia voluptas eligendi odit error et ut et. Quibusdam accusantium quas sed et.', 1),
+(70, 'Accusantium est quae nisi et quo. Qui deserunt nihil repellat et labore labore. Libero voluptatem asperiores enim deserunt.', 4),
+(275, 'Ea in beatae quos quia ipsa. Consequuntur animi corrupti dolores. Enim sequi sequi animi qui aut laborum.', 5),
+(96, 'Perferendis delectus ratione aliquam eos facere. Corrupti quod vel natus veritatis. Dolore nostrum officia iure id.', 3),
+(192, 'Dolorem qui quo ipsum et. Repellat exercitationem eos nesciunt natus aut facilis omnis. Repellendus voluptas assumenda ea. Porro ex aut et fugit itaque aut. Aliquid aut ratione illo quaerat dolorum.', 4),
+(48, 'Et in totam libero amet optio ea. Velit aut in labore dolorem accusamus aperiam non. Placeat sapiente natus nisi quis impedit voluptas asperiores.', 2),
+(93, 'Inventore laudantium iste veniam omnis repudiandae sequi. Quo ut sed molestias maiores. Quis error ipsam voluptatum vero.', 3),
+(14, 'Autem molestiae labore ullam eius eaque. Tenetur adipisci tempore omnis aut. Natus quia error vel alias. Accusantium et itaque unde quidem.', 1),
+(100, 'Est rerum aperiam quisquam corrupti porro. Provident maiores ut explicabo ab veritatis qui. Architecto aspernatur et voluptas autem vel.', 5),
+(184, 'Dolor sunt dolorem quisquam culpa. Accusamus atque in non et. Et quisquam earum labore est aut aut qui error. Dolores repudiandae aliquam aut animi et minima ut explicabo.', 3),
+(197, 'Sunt doloribus inventore porro autem ut explicabo. Ea omnis sapiente vel aut ut enim sunt.', 2),
+(116, 'Ea quas molestiae quam omnis ea aut occaecati ut. Nesciunt molestiae eos qui nostrum. Odio itaque doloremque assumenda magnam. Incidunt eos qui mollitia ut nam debitis.', 4),
+(90, 'Dolores in non et eum vel nihil. Beatae aut velit placeat consequuntur. Aut quia ipsum praesentium atque eveniet nihil quia numquam. Qui quo rem accusantium excepturi.', 5),
+(63, 'Excepturi consequuntur laboriosam voluptate. Ipsa quas odit enim. Fugit ratione cumque accusamus expedita eos. Sunt totam vitae ut praesentium inventore animi mollitia.', 1),
+(48, 'Voluptas maxime delectus ut quisquam. Consequatur ipsum voluptas ipsum repellat commodi qui reiciendis exercitationem. Ducimus nesciunt quaerat consectetur explicabo iusto voluptate eligendi.', 1),
+(209, 'Blanditiis sit cum et commodi dignissimos iusto. Rerum itaque ut nesciunt voluptatem minima. Qui tempora aspernatur et. Autem blanditiis consequatur et quisquam.', 4),
+(9, 'Culpa blanditiis quasi doloremque eos rerum. Quidem quae et vero dignissimos nam odio. Harum vitae quo at voluptatem rerum.', 5),
+(31, 'Quidem blanditiis accusantium praesentium molestias tempore veniam qui facilis. Quos et maiores non. Voluptates eius et rerum voluptas ab et veritatis.', 3)
+;
+
+
+
